@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('posts')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const featured = posts.find((post) => post.data.featured) ?? posts[0];
+const latest = posts.filter((post) => post.id !== featured?.id);
+const formatDate = (date) => date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).toUpperCase();
+---
+<BaseLayout>
+  <main>
+    <section class="container hero">
+      <div class="eyebrow">AX LAB FOR ENTERPRISE WORKERS</div>
+      <h1>AI로 일하는 방식을<br />다시 설계하는 기록</h1>
+      <p class="lead">AI, AX, Agentic AI 뉴스를 스크랩하고 대기업 업무 자동화 관점으로 해석합니다. 기술 변화가 실제 조직의 보고, 결재, 데이터, 협업에 어떤 의미를 갖는지 기록합니다.</p>
+      <div class="actions">
+        <a class="button primary" href="#latest">최근 글 읽기</a>
+        <a class="button" href="/about">블로그 소개</a>
+      </div>
+    </section>
+
+    {featured && (
+      <section class="container" id="featured">
+        <div class="section-title">
+          <div><div class="label">FEATURED</div><h2>가장 최근의 생각</h2></div>
+          <a class="button" href={`/posts/${featured.id}`}>읽기 →</a>
+        </div>
+        <a class="featured" href={`/posts/${featured.id}`}>
+          <div class="cover"></div>
+          <div class="featured-body">
+            <div class="meta"><span>{featured.data.category}</span><span>·</span><span>{formatDate(featured.data.date)}</span></div>
+            <h2 class="post-title">{featured.data.title}</h2>
+            <p class="summary">{featured.data.summary}</p>
+            <div class="tags">{featured.data.tags.slice(0, 5).map((tag) => <span class="tag">#{tag}</span>)}</div>
+          </div>
+        </a>
+      </section>
+    )}
+
+    <section class="container" id="latest" style="margin-top:72px">
+      <div class="section-title"><div><div class="label">LATEST</div><h2>모든 글</h2></div></div>
+      <div class="grid">
+        {latest.map((post) => (
+          <a class="card" href={`/posts/${post.id}`}>
+            <div class="thumb"></div>
+            <div class="card-body">
+              <div class="meta"><span>{post.data.category}</span><span>{formatDate(post.data.date)}</span></div>
+              <h3>{post.data.title}</h3>
+              <p>{post.data.summary}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="container newsletter">
+      <div class="label">NEWSLETTER</div>
+      <h2>AI 업무 자동화 노트를 계속 쌓아갑니다</h2>
+      <p class="lead">뉴스를 단순히 소비하지 않고, 업무 자동화와 AX 관점의 지식으로 바꾸는 블로그입니다.</p>
+    </section>
+  </main>
+</BaseLayout>

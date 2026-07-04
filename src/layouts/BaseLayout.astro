@@ -1,0 +1,39 @@
+---
+import '../styles/global.css';
+const { title = '대기업 직장인의 AX 실험실', description = 'AI, AX, Agentic AI로 일하는 방식을 다시 설계하는 기록' } = Astro.props;
+---
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav">
+        <a class="logo" href="/">
+          <span class="logo-mark">AX</span>
+          <span>대기업 직장인의 AX 실험실</span>
+        </a>
+        <nav class="nav-links">
+          <a href="/">홈</a>
+          <a href="/about">소개</a>
+          <a href="https://github.com/ohrkawk-ojs/ohrkawk-ojs.github.io">GitHub</a>
+        </nav>
+      </div>
+    </header>
+    <slot />
+    <footer class="footer">
+      <div class="container nav">
+        <a class="logo" href="/"><span class="logo-mark">AX</span><span>AX 실험실</span></a>
+        <nav class="nav-links">
+          <a href="/">홈</a>
+          <a href="/about">소개</a>
+          <a href="https://github.com/ohrkawk-ojs/ohrkawk-ojs.github.io">GitHub</a>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>
