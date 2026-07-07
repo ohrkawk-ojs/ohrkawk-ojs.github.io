@@ -26,7 +26,7 @@ const formatDate = (date) => date.toLocaleDateString('en-US', { month: 'short', 
           <a class="button" href={`/posts/${featured.id}`}>읽기 →</a>
         </div>
         <a class="featured" href={`/posts/${featured.id}`}>
-          <div class="cover"></div>
+          <div class="cover" style={featured.data.cover ? `background-image: linear-gradient(135deg, rgba(15,23,42,.08), rgba(15,23,42,.08)), url('${featured.data.cover}')` : undefined}></div>
           <div class="featured-body">
             <div class="meta"><span>{featured.data.category}</span><span>·</span><span>{formatDate(featured.data.date)}</span></div>
             <h2 class="post-title">{featured.data.title}</h2>
@@ -42,7 +42,7 @@ const formatDate = (date) => date.toLocaleDateString('en-US', { month: 'short', 
       <div class="grid">
         {latest.map((post) => (
           <a class="card" href={`/posts/${post.id}`}>
-            <div class="thumb"></div>
+            <div class="thumb" style={post.data.cover ? `background-image: url('${post.data.cover}'); background-size: cover; background-position: center;` : undefined}></div>
             <div class="card-body">
               <div class="meta"><span>{post.data.category}</span><span>{formatDate(post.data.date)}</span></div>
               <h3>{post.data.title}</h3>

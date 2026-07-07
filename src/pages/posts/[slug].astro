@@ -17,7 +17,7 @@ const formatDate = (date) => date.toLocaleDateString('ko-KR', { year: 'numeric',
     <div style="margin-top:32px" class="meta"><span>{post.data.category}</span><span>·</span><span>{formatDate(post.data.date)}</span></div>
     <h1>{post.data.title}</h1>
     <p class="lead">{post.data.summary}</p>
-    <div class="cover" style="border-radius:32px;margin:34px 0;min-height:360px"></div>
+    <div class="cover" style={post.data.cover ? `border-radius:32px;margin:34px 0;min-height:360px;background-image: linear-gradient(135deg, rgba(15,23,42,.05), rgba(15,23,42,.05)), url('${post.data.cover}');` : 'border-radius:32px;margin:34px 0;min-height:360px'}></div>
     <article class="article-content">
       <Content />
     </article>
