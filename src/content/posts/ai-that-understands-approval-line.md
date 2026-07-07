@@ -4,7 +4,7 @@ date: 2026-07-02
 category: "업무자동화"
 tags: ["보고서", "결재", "AI Agent", "대기업 업무"]
 summary: "대기업 업무에서 진짜 어려운 것은 문장을 쓰는 일이 아니라, 누구에게 어떤 순서로 확인받아야 하는지 이해하는 일입니다."
-cover: "/images/covers/approval-line-ai.svg"
+cover: "/images/covers/approval-line-ai.jpg"
 featured: false
 source_urls: []
 ---

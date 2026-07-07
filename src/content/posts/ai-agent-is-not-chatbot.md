@@ -4,8 +4,8 @@ date: 2026-07-04
 category: "Agentic AI"
 tags: ["AI Agent", "AX", "업무자동화", "대기업 업무"]
 summary: "AI 에이전트의 의미를 대기업 직장인의 업무 흐름에서 다시 해석합니다. 챗봇과 에이전트의 차이는 답변 능력이 아니라, 일을 이어받는 방식에 있습니다."
-cover: "/images/covers/ai-agent-coworker.svg"
-featured: true
+cover: "/images/covers/ai-agent-coworker.jpg"
+featured: false
 source_urls: []
 ---
 

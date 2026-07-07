@@ -4,7 +4,7 @@ date: 2026-07-03
 category: "AX"
 tags: ["AX", "DX", "조직", "업무 프로세스"]
 summary: "기업 AI 전환을 도구 도입으로만 보면 실패하기 쉽습니다. AX의 본질은 데이터, 권한, 승인 흐름을 AI 시대에 맞게 다시 설계하는 일입니다."
-cover: "/images/covers/ax-authority-redesign.svg"
+cover: "/images/covers/ax-authority-redesign.jpg"
 featured: false
 source_urls: []
 ---
