@@ -7,7 +7,7 @@ summary: "Microsoft가 기업 AI 배포를 돕기 위해 25억 달러 규모 이
 featured: true
 source_urls:
   - "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0FsOS1qMTRRVThNUlRrTnBrR1RSMEFRNnllREVaOFJJOHY2WHdybEt5VDFrdnVLeDdxdkJqMkluVFdCQThxdG1fV0pUY25GTWtEVWplbUlLajJmbmx2Q0RaMEJXb3lTZ2tsUUM1d3RXZUhRLXZZcG9hTy1VTkdsRWlFRW1vUEIzWFMzZkltenFIV2kxQ3FoaHcyaURiQzBQeXhtZnpmNGRsTkhabEtBeWFjV0NfcWNLcWVNU2s3RmI4X0hGejA5WTU5ZUU?oc=5"
-cover: "/images/covers/microsoft-ai-deployment-initiative.svg"
+cover: "/images/covers/microsoft-ai-deployment-initiative.jpg"
 ---
 
 새로운 업무 시스템이 들어온다는 공지가 올라오면, 사무실에는 늘 비슷한 장면이 생깁니다.
