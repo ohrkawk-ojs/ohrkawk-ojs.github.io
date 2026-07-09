@@ -1,0 +1,106 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="48%" cy="42%" r="72%">
+      <stop offset="0%" stop-color="#173B66"/>
+      <stop offset="48%" stop-color="#071D33"/>
+      <stop offset="100%" stop-color="#020812"/>
+    </radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#183E66"/>
+      <stop offset="1" stop-color="#07182A"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFE2A3"/>
+      <stop offset="1" stop-color="#FFB84D"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#75F7FF"/>
+      <stop offset="1" stop-color="#4C8DFF"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.2 0 0 0 0 0.75 0 0 0 0 1 0 0 0 .85 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="26" stdDeviation="25" flood-color="#000" flood-opacity="0.38"/>
+    </filter>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M52 0H0V52" stroke="#5BBCE6" stroke-opacity="0.075"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#grid)"/>
+
+  <!-- enterprise systems -->
+  <g filter="url(#shadow)" opacity="0.98">
+    <g transform="translate(118 175)">
+      <rect width="260" height="152" rx="28" fill="url(#card)" stroke="#6ADFFF" stroke-opacity=".32"/>
+      <circle cx="55" cy="54" r="17" fill="#7EF0FF" opacity=".85"/>
+      <rect x="88" y="42" width="116" height="12" rx="6" fill="#D8FBFF" opacity=".42"/>
+      <rect x="44" y="86" width="172" height="10" rx="5" fill="#8AD7FF" opacity=".3"/>
+      <rect x="44" y="112" width="126" height="10" rx="5" fill="#8AD7FF" opacity=".22"/>
+    </g>
+    <g transform="translate(1218 172)">
+      <rect width="260" height="152" rx="28" fill="url(#card)" stroke="#6ADFFF" stroke-opacity=".32"/>
+      <path d="M60 47h140v62H60z" stroke="#7EF0FF" stroke-width="8" opacity=".72"/>
+      <path d="M60 47l70 42 70-42" stroke="#7EF0FF" stroke-width="8" opacity=".72"/>
+    </g>
+    <g transform="translate(150 585)">
+      <rect width="290" height="158" rx="30" fill="url(#card)" stroke="#6ADFFF" stroke-opacity=".32"/>
+      <path d="M55 54h180M55 86h140M55 118h200" stroke="#D8FBFF" stroke-opacity=".38" stroke-width="12" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(1160 585)">
+      <rect width="290" height="158" rx="30" fill="url(#card)" stroke="#6ADFFF" stroke-opacity=".32"/>
+      <circle cx="78" cy="78" r="30" stroke="#7EF0FF" stroke-width="8" opacity=".72"/>
+      <path d="M130 55h92M130 84h60M130 112h112" stroke="#D8FBFF" stroke-opacity=".38" stroke-width="12" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- implantation / deployment pathway -->
+  <path d="M380 251 C545 308 610 364 705 428" stroke="#67E8FF" stroke-opacity=".26" stroke-width="4"/>
+  <path d="M1220 252 C1064 317 1000 368 895 428" stroke="#67E8FF" stroke-opacity=".26" stroke-width="4"/>
+  <path d="M440 650 C565 565 637 500 705 472" stroke="#67E8FF" stroke-opacity=".22" stroke-width="4"/>
+  <path d="M1160 652 C1030 565 964 503 895 472" stroke="#67E8FF" stroke-opacity=".22" stroke-width="4"/>
+
+  <!-- central AI transplant core -->
+  <g filter="url(#glow)">
+    <circle cx="800" cy="450" r="112" fill="#061827" stroke="url(#cyan)" stroke-width="5"/>
+    <circle cx="800" cy="450" r="72" fill="none" stroke="#93F7FF" stroke-opacity=".62" stroke-width="3"/>
+    <path d="M754 450c0-34 19-59 46-59s46 25 46 59-19 59-46 59-46-25-46-59Z" fill="#77EFFF" opacity=".86"/>
+    <path d="M800 348v-62M800 614v-62M688 450h-70M982 450h-70" stroke="#9AF7FF" stroke-width="5" stroke-linecap="round" opacity=".52"/>
+    <circle cx="800" cy="286" r="11" fill="url(#gold)"/>
+    <circle cx="800" cy="614" r="11" fill="url(#gold)"/>
+    <circle cx="618" cy="450" r="11" fill="url(#gold)"/>
+    <circle cx="982" cy="450" r="11" fill="url(#gold)"/>
+  </g>
+
+  <!-- office worker and expert group silhouettes -->
+  <g filter="url(#shadow)">
+    <g transform="translate(724 612)">
+      <ellipse cx="76" cy="188" rx="96" ry="25" fill="#020812" opacity=".48"/>
+      <circle cx="76" cy="38" r="30" fill="#F0C7A2"/>
+      <path d="M49 34c8-28 50-34 64-8 5 9 3 17 1 22-18-13-43-15-65-14Z" fill="#1A2430"/>
+      <path d="M32 90c8-29 80-32 90 0l25 88H7l25-88Z" fill="#163252" stroke="#78DFFF" stroke-opacity=".35"/>
+      <path d="M61 87h30l-8 61H70l-9-61Z" fill="#EDF8FF" opacity=".9"/>
+    </g>
+    <g opacity=".58">
+      <circle cx="638" cy="695" r="18" fill="#D9ECFF"/>
+      <path d="M604 756c6-36 62-36 68 0" stroke="#D9ECFF" stroke-width="18" stroke-linecap="round"/>
+      <circle cx="962" cy="695" r="18" fill="#D9ECFF"/>
+      <path d="M928 756c6-36 62-36 68 0" stroke="#D9ECFF" stroke-width="18" stroke-linecap="round"/>
+      <circle cx="590" cy="735" r="14" fill="#8AD7FF"/>
+      <path d="M564 786c5-27 48-27 53 0" stroke="#8AD7FF" stroke-width="14" stroke-linecap="round"/>
+      <circle cx="1010" cy="735" r="14" fill="#8AD7FF"/>
+      <path d="M984 786c5-27 48-27 53 0" stroke="#8AD7FF" stroke-width="14" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- abstract editorial caption lines, no text -->
+  <g opacity=".9">
+    <rect x="96" y="780" width="465" height="8" rx="4" fill="#7DEBFF" opacity=".62"/>
+    <rect x="96" y="807" width="328" height="8" rx="4" fill="#D8FBFF" opacity=".32"/>
+    <rect x="96" y="834" width="390" height="8" rx="4" fill="#D8FBFF" opacity=".18"/>
+  </g>
+</svg>
