@@ -4,7 +4,7 @@ date: 2026-07-08
 category: "Agentic AI"
 tags: ["AI Agent", "AX", "업무자동화", "대기업 업무", "AI전환"]
 summary: "국내 AI 경쟁과 기업 AX 투자가 모두 실행형 AI, 즉 AI 에이전트로 수렴하고 있습니다. 이제 중요한 질문은 어떤 모델을 쓰느냐가 아니라 어떤 업무를 끝까지 맡길 수 있느냐입니다."
-featured: true
+featured: false
 source_urls:
   - "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Z2RaUGpZNF9QNWZBVm52MElIRW5VT0puMVE4Z2J1YThGOC1JdW5BNkJXOXdHTlBmQ1NsZjcxQ0w2emRuV2V0ZWU4QlVJLVNxQkxCVmdxWlFOYVnSAWBBVV95cUxPX0lxTE9UbkJTOUd0aUhWdUVtN1RWcVFITl9JcU9jX1ZLMGw2cEFqa3BYaVJKZ0dqRHpmTDl5SF9kQzZBbEtRSjk5OWVDdVBmeTBKYU1VMHhybFBvbVJ4TzA?oc=5"
   - "https://news.google.com/rss/articles/CBMieEFVX3lxTE96YWdPNDMyWnU2aUdMRFNNd3VDSmI1bjhVN1lUNnViYWJiT1pFVkdiVVdQWDJrcVhsMlZ3a3BDSFpyNDU4WjJTRzlneHIxMndFVVRnMm9OZmpOVnRxMmMwanNGU3JOd1JRa0FMbUJNTUpBOHVPcmRiMw?oc=5"

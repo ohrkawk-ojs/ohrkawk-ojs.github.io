@@ -4,7 +4,7 @@ date: 2026-07-09
 category: "AX"
 tags: ["AI Agent", "AX", "Microsoft", "AI전환", "업무자동화", "변화관리"]
 summary: "Microsoft가 기업 AI 배포를 돕기 위해 25억 달러 규모 이니셔티브와 6,000명 전문가 투입을 발표했다는 보도는, 기업 AI의 병목이 모델 성능에서 현장 이식과 운영 전환으로 이동하고 있음을 보여줍니다."
-featured: false
+featured: true
 source_urls:
   - "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0FsOS1qMTRRVThNUlRrTnBrR1RSMEFRNnllREVaOFJJOHY2WHdybEt5VDFrdnVLeDdxdkJqMkluVFdCQThxdG1fV0pUY25GTWtEVWplbUlLajJmbmx2Q0RaMEJXb3lTZ2tsUUM1d3RXZUhRLXZZcG9hTy1VTkdsRWlFRW1vUEIzWFMzZkltenFIV2kxQ3FoaHcyaURiQzBQeXhtZnpmNGRsTkhabEtBeWFjV0NfcWNLcWVNU2s3RmI4X0hGejA5WTU5ZUU?oc=5"
 cover: "/images/covers/microsoft-ai-deployment-initiative.svg"
