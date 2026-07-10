@@ -4,7 +4,7 @@ date: 2026-07-10
 category: "AI Agent"
 tags: ["AI Agent", "AX", "SDLC", "개발자동화", "레거시현대화", "IBM"]
 summary: "IBM이 멀티 에이전트 기반 개발 플랫폼 ‘IBM 밥’을 업그레이드했다는 보도는, AI 코딩 경쟁의 초점이 코드 생성에서 검토·테스트·비용·레거시 현대화까지 포함한 개발 생명주기 운영으로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.aitimes.kr/news/articleView.html?idxno=40914"
   - "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KY2ppOVZPMDRMVDVMaHdvNUtVSTdCcDdweXd3UUttdHdzX1FTcDFDeVlaaV94ZmI1VW9BWmVkYmVFbFdkOFBnZGFfSGJ2VDRFWTNjQVEzc3JHRVZ0MFlrU3g0WWxTQ2s?oc=5"
