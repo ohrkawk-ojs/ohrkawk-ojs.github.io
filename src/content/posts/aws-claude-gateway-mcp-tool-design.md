@@ -4,7 +4,7 @@ date: 2026-07-10T22:30:00+09:00
 category: "AI Agent"
 tags: ["AI Agent", "AX", "AWS", "Claude", "MCP", "거버넌스", "업무자동화"]
 summary: "AWS가 Claude Code·Claude Desktop을 조직 단위로 통제하는 Claude apps gateway와 MCP 툴 설계의 실무 트레이드오프를 공개한 것은, 기업 AI 에이전트 경쟁의 초점이 모델 성능에서 권한·비용·도구 인터페이스 운영으로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/"
   - "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/"
