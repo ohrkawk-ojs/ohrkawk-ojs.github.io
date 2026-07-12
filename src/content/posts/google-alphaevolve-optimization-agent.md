@@ -4,7 +4,7 @@ date: 2026-07-11T11:40:00+09:00
 category: "AI Agent"
 tags: ["AI Agent", "AX", "Google Cloud", "AlphaEvolve", "최적화", "업무자동화"]
 summary: "Google Cloud가 Gemini 기반 최적화·발견 에이전트 AlphaEvolve를 GA로 공개한 것은, AI 에이전트의 무대가 문서 작성과 코딩 보조를 넘어 물류·수요예측·반도체·금융처럼 목적함수와 제약조건이 있는 업무 설계 영역으로 넓어지고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone"
 cover: "/images/covers/google-alphaevolve-optimization-agent.jpg"
