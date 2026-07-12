@@ -4,7 +4,7 @@ date: 2026-07-12T11:32:00+09:00
 category: "AI Agent"
 tags: ["AI Agent", "AX", "Agentic AI", "인프라", "거버넌스", "업무자동화"]
 summary: "CIO Dive와 Google Cloud의 2026 State of AI Infrastructure 리포트는 에이전트형 AI가 모델 선택의 문제가 아니라 추론 비용, 데이터 이동, 권한 통제, 하이브리드 인프라까지 흔드는 운영 설계의 문제로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.ciodive.com/news/agentic-ai-strains-legacy-it-systems/825003/"
   - "https://cloud.google.com/blog/products/compute/state-of-ai-infrastructure-report-overview"
