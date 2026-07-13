@@ -4,7 +4,7 @@ date: 2026-07-13
 category: "Agentic AI"
 tags: ["ChatGPT Work", "AI Agent", "AX", "업무자동화", "엔터프라이즈 AI"]
 summary: "디일렉 보도에 따르면 OpenAI는 앱·파일·브라우저·업무 도구를 연결하는 사무용 에이전틱 AI ‘ChatGPT Work’를 발표했습니다. 이 변화의 핵심은 더 똑똑한 챗봇이 아니라, 사무직 업무의 입구와 권한 설계가 AI 중심으로 다시 짜일 수 있다는 점입니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.thelec.kr/news/articleView.html?idxno=59423"
 cover: "/images/covers/chatgpt-work-office-agent.jpg"
