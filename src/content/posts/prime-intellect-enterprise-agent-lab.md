@@ -4,7 +4,7 @@ date: 2026-07-12T22:35:00+09:00
 category: "AI Agent"
 tags: ["AI Agent", "AX", "Agentic AI", "엔터프라이즈 AI", "평가", "업무자동화"]
 summary: "TechCrunch가 보도한 Prime Intellect의 1억3000만달러 투자 유치는 기업용 AI 에이전트 경쟁이 모델 호출과 SaaS 구매를 넘어, 컴퓨트·강화학습·평가 도구를 갖춘 사내 AI 실험실 운영 문제로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"
 cover: "/images/covers/prime-intellect-enterprise-agent-lab.jpg"
