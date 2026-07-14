@@ -4,7 +4,7 @@ date: 2026-07-13T22:35:00+09:00
 category: "Data & AX"
 tags: ["SingleStore", "AI Agent", "실시간 데이터", "Graph RAG", "AX", "업무자동화"]
 summary: "전자신문 보도에 따르면 SingleStore는 ‘SingleStore AI NOW 2026’에서 실시간 데이터 기반 엔터프라이즈 AI 전략과 차세대 플랫폼 ‘Aura AI’를 공개했습니다. AI 에이전트의 성능은 모델만이 아니라 최신 업무 데이터, 권한, 맥락을 얼마나 늦지 않게 연결하느냐에 달려 있습니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.etnews.com/20260708000046"
 cover: "/images/covers/realtime-data-agent-platform.jpg"
