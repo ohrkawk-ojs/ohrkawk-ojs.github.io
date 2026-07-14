@@ -4,7 +4,7 @@ date: 2026-07-14T11:35:00+09:00
 category: "AX Workflow"
 tags: ["AX", "AI Agent", "업무자동화", "지식재산권", "Human-in-the-loop", "전문서비스"]
 summary: "벤처스퀘어 보도에 따르면 AI 기반 지식재산권 보호 솔루션 기업 WEGOFAIR는 특허법인 더웨이브와 함께 서울 AI 허브의 2026 AI Transformation 지원사업 컨소시엄에 선정됐습니다. 이 뉴스는 전문직 업무에서 AI가 사람을 대체한다는 이야기보다, 반복 탐지·증거 수집·신고 흐름을 어떻게 재설계할 것인가라는 AX 질문에 가깝습니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.venturesquare.net/en/1097941/"
 cover: "/images/covers/counterfeit-ai-ip-ax-workflow.jpg"
