@@ -4,7 +4,7 @@ date: 2026-07-14T22:35:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "AX", "업무자동화", "가드레일", "API", "거버넌스"]
 summary: "수집 리포트와 Google News RSS 기준으로 Workato는 Headless API와 Agent Guardrails를 공개했습니다. 이 소식은 에이전트가 더 많은 업무 앱을 호출하는 시대에 기업이 무엇을 자동화할 것인가만큼 무엇을 막고 기록할 것인가를 설계해야 한다는 신호로 읽힙니다."
-featured: true
+featured: false
 source_urls:
   - "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aTGl6dl9IZDhIMFlnTmVyOG9yVm5PV3ZfWnFqdHBHLTlWWnBMSGRiM0ZscnJQa1lPLW9EQng3ZXR4RDJtOEtZX2xKY3l2UWEtVkpiZ2FtYWp2VkhFQnl2X1VBbktsenJ0UXExVQ?oc=5"
   - "https://news.google.com/rss/search?q=Workato%20Introduces%20Headless%20API%20Agent%20Guardrails&hl=en-US&gl=US&ceid=US:en"

@@ -4,7 +4,7 @@ date: 2026-07-15T11:35:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "AX", "레거시", "개발자동화", "지식그래프", "업무자동화"]
 summary: "SiliconANGLE 보도에 따르면 Concho AI는 거대한 기업 코드베이스를 AI 에이전트가 이해할 수 있는 지식 계층으로 바꾸는 플랫폼을 공개했습니다. 이 소식은 개발 자동화의 병목이 코드를 새로 쓰는 속도보다 오래된 시스템 안에 묻힌 업무 지식을 회수하는 능력으로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://siliconangle.com/2026/07/14/concho-ai-turns-enterprise-codebases-knowledge-layer-ai-agents/"
   - "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVJiRGNmYjUwdURMMGE0aUhNODFfZWxaZkJmRXliMnRINlMzeEh4cEt5R3JZamRZaS1LQXRTMWpxenppMmNOeVAwdmpGeUpYNjRuRXhPa3ZFelJFVE9WTUZyTmJZaVBaTWM4cng0b2ZTOUxrRTFZa1gxZ2M0NzcwVkhUMnRMUzFwWGFSb1pPZDdnRExQYjN4dklBZTNOTFVf?oc=5"
