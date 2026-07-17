@@ -4,7 +4,7 @@ date: 2026-07-16T23:10:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "AX", "결제", "AAIF", "업무자동화", "거버넌스"]
 summary: "NHN KCP의 AAIF 합류는 AI 에이전트가 단순히 상품을 추천하는 단계를 넘어 구매와 결제라는 실행 행위에 가까워지고 있음을 보여줍니다. 기업 AX 관점에서 중요한 것은 결제 버튼의 자동화가 아니라, 권한 위임·인증·한도·분쟁 처리까지 포함한 실행 규칙의 재설계입니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.aitimes.kr/news/articleView.html?idxno=40953"
 cover: "/images/covers/agentic-payment-protocol-aaif.jpg"

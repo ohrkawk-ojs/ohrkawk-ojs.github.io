@@ -4,7 +4,7 @@ date: 2026-07-15T22:30:00+09:00
 category: "AX"
 tags: ["Agentic AI", "AX", "감사", "컴플라이언스", "업무자동화", "거버넌스"]
 summary: "아시아경제 보도 기준 딜로이트 안진은 글로벌 감사·인증 플랫폼 옴니아에 에이전틱 AI를 도입했습니다. 이 소식은 전문직 AX의 중심이 문서 자동 작성이 아니라 증거, 리스크, 판단, 승인 로그가 이어지는 감사 가능한 업무 흐름 설계로 옮겨가고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.asiae.co.kr/article/2026071509031712805"
 cover: "/images/covers/audit-evidence-agent-workflow.jpg"

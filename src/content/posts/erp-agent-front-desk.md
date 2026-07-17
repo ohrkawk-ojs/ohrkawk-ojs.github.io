@@ -4,7 +4,7 @@ date: 2026-07-16
 category: "Agentic AI"
 tags: ["ERP", "AI Agent", "AX", "업무자동화", "엔터프라이즈AI"]
 summary: "SAP와 Oracle은 ERP를 사라지게 하려는 것이 아니라, ERP 앞단에 AI 에이전트라는 새로운 업무 창구를 세우고 있습니다. 이 변화의 본질은 화면 교체가 아니라 권한, 승인, 로그, 예외 처리까지 포함한 업무 실행 계층의 재설계입니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.cio.com/article/4196757/%ec%a5%b4%ec%9d%b4-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%94%84%eb%9f%b0%ed%8a%b8%ec%97%94%eb%93%9csap-ai-%ec%8b%9c%eb%8c%80-erp%ec%9d%98-%eb%af%b8%eb%9e%98-%ec%b2%ad%ec%82%ac%ec%a7%84.html"
   - "https://www.ciol.com/news/oracle-ai-native-builder-fusion-agentic-applications-enterprise-ai-12166983"
