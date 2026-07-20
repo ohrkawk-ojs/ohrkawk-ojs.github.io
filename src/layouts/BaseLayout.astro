@@ -1,6 +1,16 @@
 ---
 import '../styles/global.css';
-const { title = '대기업 직장인의 AX 실험실', description = 'AI, AX, Agentic AI로 일하는 방식을 다시 설계하는 기록' } = Astro.props;
+
+const {
+  title = '대기업 직장인의 AX 실험실',
+  description = '대기업 직장인이 AI, AX, Agentic AI, 업무자동화 뉴스를 해석하고 기업 업무 프로세스, 결재선, 데이터 권한 관점에서 정리하는 기술 블로그입니다.',
+  image = '/images/covers/agentic-ai-operating-system.jpg',
+  type = 'website',
+} = Astro.props;
+
+const site = Astro.site ?? new URL('https://ohrkawk-ojs.github.io');
+const canonicalUrl = new URL(Astro.url.pathname, site).toString();
+const imageUrl = image?.startsWith('http') ? image : new URL(image, site).toString();
 ---
 <!doctype html>
 <html lang="ko">
@@ -8,6 +18,21 @@ const { title = '대기업 직장인의 AX 실험실', description = 'AI, AX, Ag
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href={canonicalUrl} />
+
+    <meta property="og:site_name" content="대기업 직장인의 AX 실험실" />
+    <meta property="og:type" content={type} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    {image && <meta property="og:image" content={imageUrl} />}
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    {image && <meta name="twitter:image" content={imageUrl} />}
+
     <title>{title}</title>
   </head>
   <body>

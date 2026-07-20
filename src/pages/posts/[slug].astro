@@ -11,7 +11,12 @@ const { post } = Astro.props;
 const { Content } = await render(post);
 const formatDate = (date) => date.toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<BaseLayout title={`${post.data.title} — 대기업 직장인의 AX 실험실`} description={post.data.summary}>
+<BaseLayout
+  title={`${post.data.title} — 대기업 직장인의 AX 실험실`}
+  description={post.data.summary}
+  image={post.data.cover}
+  type="article"
+>
   <main class="article">
     <a class="button" href="/">← 글 목록</a>
     <div style="margin-top:32px" class="meta"><span>{post.data.category}</span><span>·</span><span>{formatDate(post.data.date)}</span></div>
