@@ -4,7 +4,7 @@ date: 2026-07-19T22:33:00+09:00
 category: "AX"
 tags: ["AX", "AI Transformation", "업무자동화", "성과관리", "프로세스", "Agentic AI"]
 summary: "ZDNet Korea의 ‘AI는 있는데 성과는 없다…AX 전환이 멈추는 이유’ 칼럼은 기업 AI 도입의 문제가 모델 구매가 아니라 일의 구조를 바꾸지 못한 데 있다고 짚습니다. 대기업 사무실에서 AX의 성과는 계정 수나 PoC 수가 아니라 사라진 업무 단계, 짧아진 승인 리드타임, 다시 설계된 책임과 데이터 흐름에서 확인됩니다."
-featured: true
+featured: false
 source_urls:
   - "https://zdnet.co.kr/view/?no=20260716210712"
 cover: "/images/covers/ai-without-performance-ax-road.jpg"
