@@ -53,11 +53,17 @@ const imageUrl = image?.startsWith('http') ? image : new URL(image, site).toStri
     <footer class="footer">
       <div class="container nav">
         <a class="logo" href="/"><span class="logo-mark">AX</span><span>AX 실험실</span></a>
-        <nav class="nav-links">
-          <a href="/">홈</a>
-          <a href="/about">소개</a>
-          <a href="https://github.com/ohrkawk-ojs/ohrkawk-ojs.github.io">GitHub</a>
-        </nav>
+        <div class="footer-meta">
+          <nav class="nav-links">
+            <a href="/">홈</a>
+            <a href="/about">소개</a>
+            <a href="https://github.com/ohrkawk-ojs/ohrkawk-ojs.github.io">GitHub</a>
+          </nav>
+          <a class="visitor-counter" href="https://hits.seeyoufarm.com" target="_blank" rel="noopener noreferrer" aria-label="방문자수 카운터">
+            <span>방문자수</span>
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fohrkawk-ojs.github.io&count_bg=%237DD3FC&title_bg=%23111827&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="방문자수" loading="lazy" referrerpolicy="no-referrer-when-downgrade" />
+          </a>
+        </div>
       </div>
     </footer>
   </body>
