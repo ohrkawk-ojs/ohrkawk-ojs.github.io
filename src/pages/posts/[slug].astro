@@ -10,6 +10,7 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await render(post);
 const formatDate = (date) => date.toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric' });
+const postViewsBadge = `https://visitor-badge.laobi.icu/badge?page_id=ohrkawk-ojs.github.io.posts.${post.id}`;
 ---
 <BaseLayout
   title={`${post.data.title} — 대기업 직장인의 AX 실험실`}
@@ -19,7 +20,16 @@ const formatDate = (date) => date.toLocaleDateString('ko-KR', { year: 'numeric',
 >
   <main class="article">
     <a class="button" href="/">← 글 목록</a>
-    <div style="margin-top:32px" class="meta"><span>{post.data.category}</span><span>·</span><span>{formatDate(post.data.date)}</span></div>
+    <div style="margin-top:32px" class="meta article-meta">
+      <span>{post.data.category}</span>
+      <span>·</span>
+      <span>{formatDate(post.data.date)}</span>
+      <span>·</span>
+      <span class="post-views">
+        <span>조회수</span>
+        <img src={postViewsBadge} alt={`${post.data.title} 조회수`} loading="lazy" referrerpolicy="no-referrer-when-downgrade" />
+      </span>
+    </div>
     <h1>{post.data.title}</h1>
     <p class="lead">{post.data.summary}</p>
     <div class="cover" style={post.data.cover ? `border-radius:32px;margin:34px 0;min-height:360px;background-image: linear-gradient(135deg, rgba(15,23,42,.05), rgba(15,23,42,.05)), url('${post.data.cover}');` : 'border-radius:32px;margin:34px 0;min-height:360px'}></div>
