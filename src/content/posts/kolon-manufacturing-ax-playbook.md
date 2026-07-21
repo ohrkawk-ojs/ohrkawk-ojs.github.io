@@ -4,7 +4,7 @@ date: 2026-07-21T11:35:00+09:00
 category: "AX"
 tags: ["AX", "제조 AI", "스마트팩토리", "업무자동화", "데이터", "엔터프라이즈 AI"]
 summary: "The Elec 보도 기준 코오롱베니트가 TIPA의 2026년 제조 AI 전환 선도모델 개발 지원사업 주관기관으로 선정됐습니다. 이 소식은 제조 AX가 개별 AI 기능 도입을 넘어 공정 데이터, 진단, 모델 개발·배포, 시스템 통합을 하나의 현장 운영 안내서로 묶는 방향으로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.thelec.net/news/articleView.html?idxno=12308"
 cover: "/images/covers/kolon-manufacturing-ax-playbook.jpg"
