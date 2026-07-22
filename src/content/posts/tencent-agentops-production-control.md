@@ -4,7 +4,7 @@ date: 2026-07-22T11:35:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "AgentOps", "AX", "업무자동화", "거버넌스", "엔터프라이즈 AI"]
 summary: "PRNewswire 배포 보도와 수집 리포트 기준으로 Tencent Cloud는 Agent Development Platform 국제판을 엔터프라이즈급 AgentOps 플랫폼으로 확장했습니다. 이 소식은 기업용 AI 에이전트의 경쟁이 데모와 PoC를 넘어 배포, 모니터링, 평가, 권한, 운영 책임을 묶는 관제 체계로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.manilatimes.net/2026/07/21/tmt-newswire/pr-newswire/tencent-cloud-unveils-a-major-upgrade-to-its-agent-development-platform-launching-an-enterprise-grade-agentops-platform-to-bring-ai-agents-into-production-at-scale/2388097"
 cover: "/images/covers/tencent-agentops-production-control.jpg"
