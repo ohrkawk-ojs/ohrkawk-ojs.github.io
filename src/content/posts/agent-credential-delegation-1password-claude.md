@@ -4,7 +4,7 @@ date: 2026-07-17T11:31:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "AX", "1Password", "Claude", "보안", "권한위임", "업무자동화"]
 summary: "1Password의 Claude 브라우저 통합은 AI 에이전트에게 비밀번호를 알려주는 것이 아니라, 보이지 않는 통로로 제한된 작업 권한을 위임하는 방향을 보여줍니다. 기업 AX 관점에서 핵심은 자동 로그인 편의가 아니라 에이전트별 권한·승인·감사 로그를 어떻게 설계할 것인가입니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration"
   - "https://1password.com/blog/extended-access-management-for-ai-agents"

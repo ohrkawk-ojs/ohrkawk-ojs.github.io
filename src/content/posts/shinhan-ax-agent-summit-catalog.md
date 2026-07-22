@@ -4,7 +4,7 @@ date: 2026-07-21T22:31:00+09:00
 category: "AX"
 tags: ["AX", "AI Agent", "금융 AI", "업무자동화", "거버넌스", "엔터프라이즈 AI"]
 summary: "이지경제 보도와 수집 리포트 기준, 신한은행은 ‘Shinhan AX Agent Summit 2026’을 열고 자체 개발·활용 중인 AI 에이전트 수준과 금융 AX 발전 방향을 점검했습니다. 이 소식은 금융권 AX가 범용 챗봇 도입을 넘어 업무별 에이전트 포트폴리오와 검증 가능한 운영 모델로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.ezyeconomy.com/news/articleView.html?idxno=237757"
 cover: "/images/covers/shinhan-ax-agent-summit-catalog.jpg"

@@ -4,7 +4,7 @@ date: 2026-07-20T11:33:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AX", "업무자동화", "지식베이스", "멀티에이전트", "권한관리"]
 summary: "AI타임스 보도에 따르면 씽킹AI는 한국 진출 이후 고객사 60곳을 확보하고, 기업 문서를 AI 지식 자산으로 구조화하는 지식베이스와 여러 에이전트가 역할을 나눠 일하는 에이전트 팀 기능을 고도화하고 있습니다. 이 변화의 핵심은 챗봇 기능 추가가 아니라, 사내 문서함·권한·업무 배분 방식이 에이전트의 작업장으로 재편되는 데 있습니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.aitimes.com/news/articleView.html?idxno=212915"
 cover: "/images/covers/thinkingai-agent-team-knowledge-base.jpg"

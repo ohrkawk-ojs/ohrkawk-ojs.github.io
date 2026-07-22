@@ -4,7 +4,7 @@ date: 2026-07-17T22:31:00+09:00
 category: "AX"
 tags: ["AI Agent", "AX", "롯데", "업무자동화", "엔터프라이즈 AI", "현업 과제"]
 summary: "롯데이노베이트가 롯데 VCM에서 공개한 계열사 맞춤형 AI 에이전트 사례는 AX가 전사 공통 챗봇을 넘어 가격 모니터링, 수요 예측, 리뷰 분석처럼 현업 과제 단위의 작업대로 이동하고 있음을 보여줍니다. 핵심은 모델보다 반복 판단이 일어나는 업무 지점을 어떻게 데이터·권한·성과 지표와 함께 설계하느냐입니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.etnews.com/20260716000075"
   - "https://www.hankooki.com/news/articleView.html?idxno=338621"

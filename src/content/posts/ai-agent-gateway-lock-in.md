@@ -4,7 +4,7 @@ date: 2026-07-18T22:31:00+09:00
 category: "AI Agent"
 tags: ["AI Agent", "AX", "벤더 락인", "플랫폼", "업무자동화", "거버넌스"]
 summary: "PPC Land 보도에 따르면 프랑스 경쟁당국은 AI 에이전트 시장에서 OpenAI·Google·Anthropic의 집중도와 락인 위험을 지적했습니다. 이 이슈의 핵심은 특정 모델 점유율만이 아니라, AI 에이전트가 검색·구매·업무 실행의 관문이 될 때 기업의 데이터 이동성, 표준, 조달, 워크플로 이식성이 함께 흔들린다는 점입니다."
-featured: true
+featured: false
 source_urls:
   - "https://ppc.land/france-flags-lock-in-risk-as-openai-google-anthropic-hold-84-of-ai-agents/"
 cover: "/images/covers/ai-agent-gateway-lock-in.jpg"

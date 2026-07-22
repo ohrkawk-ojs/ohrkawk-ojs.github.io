@@ -4,7 +4,7 @@ date: 2026-07-18T11:31:00+09:00
 category: "AI Agent"
 tags: ["AI Agent", "AX", "영상 AI", "업무자동화", "워크플로", "엔터프라이즈 AI"]
 summary: "NVIDIA Technical Blog의 컨텍스트 인식 영상 AI 에이전트 글은 영상 분석의 가치가 화면을 읽는 능력보다 콘텐츠 관리 시스템, 메시징, 데이터베이스, 티켓 큐, 에스컬레이션 경로와 연결될 때 생긴다는 점을 보여줍니다. 기업 AX 관점에서 핵심은 카메라가 무엇을 보느냐가 아니라, 본 것을 어떤 업무로 라우팅하고 누가 책임 있게 처리하느냐입니다."
-featured: true
+featured: false
 source_urls:
   - "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows/"
 cover: "/images/covers/video-agent-workflow-router.jpg"
