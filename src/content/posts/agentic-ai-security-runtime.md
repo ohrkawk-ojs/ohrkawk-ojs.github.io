@@ -4,7 +4,7 @@ date: 2026-07-22T22:40:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "AX", "에이전틱 AI 보안", "업무자동화", "거버넌스", "보안"]
 summary: "데이터넷과 ZDNet Korea 보도 기준으로 클루커스는 에이전틱 AI 보안 기업 Straiker와 전략적 파트너십을 맺고 AI 에이전트 자산 식별, 권한·데이터 접근 분석, 사전 보안 검증, 운영 중 위협 탐지·대응 서비스를 제공하겠다고 밝혔습니다. 이 소식은 에이전트 시대의 AX가 자동화 속도만이 아니라 실행 권한과 런타임 보호 체계를 함께 설계해야 하는 단계로 들어섰음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.datanet.co.kr/news/articleView.html?idxno=213193"
   - "https://zdnet.co.kr/view/?no=20260721092028"
