@@ -4,7 +4,7 @@ date: 2026-07-23T11:35:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "CRM", "AX", "SaaS", "업무자동화", "엔터프라이즈 AI"]
 summary: "CRM Buyer 보도와 수집 리포트 기준으로 AI 에이전트의 자율 실행성이 커지면서 CRM 벤더들이 플랫폼 아키텍처와 사람 사용자 중심 SaaS 라이선스 모델을 다시 검토해야 한다는 분석이 나왔습니다. 이 변화는 CRM에 AI 기능이 붙는 정도가 아니라, 영업·마케팅·고객지원 업무의 입구가 사람 사용자에서 에이전트 실행 흐름으로 옮겨갈 수 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.crmbuyer.com/story/ai-agents-force-crm-vendors-to-rethink-their-platforms-177679.html"
 cover: "/images/covers/crm-agent-platform-gate.jpg"
