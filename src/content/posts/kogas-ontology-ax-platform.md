@@ -4,7 +4,7 @@ date: 2026-07-23T22:35:00+09:00
 category: "AX"
 tags: ["AX", "온톨로지", "데이터", "AI Agent", "업무자동화", "엔터프라이즈 AI"]
 summary: "전자신문 보도와 수집 리포트 기준으로 한국가스공사가 온톨로지 기반 AX 플랫폼 구축에 착수했습니다. 이 소식은 기업 AI의 병목이 모델 성능만이 아니라 데이터의 의미, 관계, 출처를 업무 시스템 안에서 설명할 수 있는 구조에 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.etnews.com/20260722000380"
 cover: "/images/covers/kogas-ontology-ax-platform.jpg"
