@@ -4,7 +4,7 @@ date: 2026-07-24T11:35:00+09:00
 category: "AX"
 tags: ["AX", "보험", "재보험", "언더라이팅", "AI RPA", "업무자동화", "엔터프라이즈 AI"]
 summary: "수집 리포트와 PR Newswire/Yahoo Finance 게재 보도 기준으로 메가존클라우드와 코리안리가 재보험 업무 AX를 위한 전략적 MOU를 체결했습니다. 이 소식은 기업 AI가 문서 작성 보조를 넘어 언더라이팅, 리스크 예측, 승인 흐름처럼 전문 업무의 계산 방식 안으로 들어가고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.prnewswire.com/news-releases/megazonecloud-and-korean-re-sign-strategic-agreement-to-advance-ax-302832812.html"
   - "https://finance.yahoo.com/technology/ai/articles/megazonecloud-korean-sign-strategic-agreement-024800462.html"
