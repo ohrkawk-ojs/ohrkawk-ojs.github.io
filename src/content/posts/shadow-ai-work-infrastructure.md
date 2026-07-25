@@ -4,7 +4,7 @@ date: 2026-07-25T11:35:00+09:00
 category: "AX"
 tags: ["GenAI", "Shadow AI", "AX", "업무자동화", "거버넌스", "Enterprise AI"]
 summary: "삼성SDS가 국내 기업·공공기관 재직자 1,750명을 대상으로 실시한 조사에 따르면 2026년 국내 직장인의 업무용 GenAI 사용 시간은 하루 평균 3.25시간으로 늘었고, 회사 승인 없이 개인 비용으로 GenAI를 쓰는 Shadow AI 비중도 38%로 나타났습니다. 이 숫자는 직원들이 AI를 몰래 쓴다는 비난보다, 사내 AI 인프라가 현업의 속도를 따라가지 못할 때 업무 자동화가 그림자 속에서 먼저 자란다는 긴장을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.samsungsds.com/kr/insights/enterprise-genai-usage-survey_part1.html"
 cover: "/images/covers/shadow-ai-work-infrastructure.jpg"
