@@ -4,7 +4,7 @@ date: 2026-07-24T22:35:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "OpenAI", "AX", "업무자동화", "고객지원", "거버넌스"]
 summary: "Computerworld 보도와 수집 리포트 기준으로 OpenAI는 음성·채팅 에이전트를 기업 업무에 배포하는 Presence를 출시했고, 내부 영어 전화 지원 채널에서 인바운드 이슈의 75%를 사람 도움 없이 해결했다고 밝혔습니다. 이 소식은 고객지원과 헬프데스크 AX의 핵심이 상담원을 대체하는가가 아니라, 어떤 업무를 에이전트에게 맡기고 언제 사람에게 넘길지 정하는 이관 조건의 설계로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.computerworld.com/article/4200685/openai-presence-raises-new-questions-about-enterprise-automation-and-jobs-2.html"
 cover: "/images/covers/openai-presence-handoff-agent.jpg"
