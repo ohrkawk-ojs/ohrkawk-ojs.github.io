@@ -4,7 +4,7 @@ date: 2026-07-25T22:35:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "KAIST", "NVIDIA", "AX", "AI 인프라", "업무자동화"]
 summary: "헬로디디 보도에 따르면 KAIST와 엔비디아는 김재철AI대학원에 NVIDIA-KAIST AI 공동연구소를 설립하고 한국어와 국내 산업 환경에 특화된 에이전틱 AI를 공동 연구합니다. 초기 5년간 총 3억 달러 규모, 매년 5천만 달러 상당의 AI 컴퓨팅 자원이 제공된다는 점은 한국형 AI 에이전트 경쟁의 병목이 아이디어보다 연산 자원, 데이터, 업무 맥락, 운영 인프라에 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.hellodd.com/news/articleView.html?idxno=112598"
 cover: "/images/covers/korean-agentic-ai-compute-lab.jpg"
