@@ -4,7 +4,7 @@ date: 2026-07-26T11:31:00+09:00
 category: "AX"
 tags: ["삼성SDS", "Anthropic", "Claude", "Enterprise AI", "AX", "업무자동화", "AI 거버넌스"]
 summary: "라이센스뉴스 보도와 수집 리포트 기준, 삼성SDS는 앤트로픽과 전략적 파트너십을 맺고 클로드 기반 기업용 AI 사업을 확대합니다. 국내 신규 비즈니스 공동 창출, 응용형 AI 엔지니어 육성, 삼성 계열사 대상 클로드 엔터프라이즈 공급이 언급된 이 소식은 기업 AI 경쟁이 모델 이름보다 누가 안전한 업무 통로와 운영 인력을 함께 제공하느냐로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.lcnews.co.kr/news/articleView.html?idxno=205496"
 cover: "/images/covers/samsung-sds-anthropic-enterprise-ai-gateway.jpg"
