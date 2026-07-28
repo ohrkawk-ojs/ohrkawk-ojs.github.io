@@ -4,7 +4,7 @@ date: 2026-07-28T11:31:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "AX", "EDA", "제조 AX", "업무자동화", "검증 가능성"]
 summary: "Siemens Newsroom 발표와 2026년 7월 28일 수집 리포트 기준, Siemens는 NVIDIA와의 협력을 확대해 반도체·PCB 설계 EDA 영역에 자가 검증형 에이전틱 AI 워크플로우를 제공한다고 밝혔습니다. 이 소식은 산업용 AI 에이전트의 다음 경쟁력이 ‘얼마나 많이 실행하는가’가 아니라 ‘실행 결과를 어떤 근거로 검증하는가’에 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://news.siemens.com/ko-kr/siemens-nvidia-dac-2026/"
 cover: "/images/covers/self-verifying-eda-agent-workflow.jpg"
