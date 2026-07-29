@@ -4,7 +4,7 @@ date: 2026-07-29T11:31:00+09:00
 category: "AX"
 tags: ["AI Agent", "AX", "금융 AI", "기업금융", "업무자동화", "SaaS"]
 summary: "파이낸셜뉴스 보도와 2026년 7월 29일 수집 리포트 기준, 웹케시는 IBK기업은행 디지털뱅킹 개편 사업과 NH농협은행 프로젝트를 바탕으로 금융 AI 에이전트 사업 레퍼런스를 확대하고 있습니다. 이 소식은 기업금융의 변화가 단순한 모바일뱅킹 UI 개선이 아니라, 조회·비교·분석·보고로 이어지는 사무실의 돈 관련 업무 흐름을 에이전트형 창구로 재배치하는 문제임을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.fnnews.com/news/202607270540117656"
 cover: "/images/covers/corporate-banking-agent-interface.jpg"
