@@ -4,7 +4,7 @@ date: 2026-07-28T22:31:00+09:00
 category: "AX"
 tags: ["AX", "금융 AI", "엔터프라이즈 AI", "온톨로지", "업무자동화", "변화관리"]
 summary: "2026년 7월 28일 수집 리포트 기준, KT는 금융권을 대상으로 컨설팅·구축·운영·고도화를 묶은 5-Layer AX Full Stack 프레임워크를 확대한다고 밝혔습니다. 이 소식은 금융권 AI 경쟁의 중심이 모델 도입이 아니라 데이터 준비, 온톨로지, 현장 상주형 실행, 운영 체계까지 포함한 ‘전환 패키지’로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://news.nate.com/view/20260727n12802"
 cover: "/images/covers/financial-ax-full-stack-field-engineer.jpg"

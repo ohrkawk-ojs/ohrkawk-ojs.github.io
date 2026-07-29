@@ -4,7 +4,7 @@ date: 2026-07-27T11:31:00+09:00
 category: "AX"
 tags: ["AI Agent", "AX", "업무자동화", "PoC", "워크플로", "대기업 업무"]
 summary: "오픈애즈 글과 2026년 7월 27일 수집 리포트 기준, AI 에이전트가 모든 조직의 정답은 아니며 반복 흐름·데이터 조회→가공→전달·다단계 승인 같은 업무 구조를 먼저 봐야 한다는 실무 관점이 제시됐습니다. 이 소식은 에이전트 도입의 출발점이 모델 선택이 아니라 업무의 빈칸과 이동 비용을 찾는 일임을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.openads.co.kr/content/contentDetail?contsId=19986"
 cover: "/images/covers/agent-fit-workflow-diagnosis.jpg"
