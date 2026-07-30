@@ -4,7 +4,7 @@ date: 2026-07-30T10:30:00+09:00
 category: "AX"
 tags: ["AX", "업무자동화", "AI Agent", "현업 혁신", "대기업", "LG전자"]
 summary: "ZDNet Korea 보도와 2026년 7월 30일 수집 리포트 기준, LG전자는 ‘모두의 AX’ 기조 아래 상반기 AX 해커톤을 열고 임직원 2100여 명의 참여와 700여 건의 아이디어 속에서 업무 80% 자동화·1인당 연간 1200시간 이상 절감 가능 과제 등을 발굴했습니다. 이 소식은 AX가 중앙 조직의 거대한 프로젝트만이 아니라, 현업의 반복 업무를 발견하고 측정 가능한 워크플로우로 바꾸는 운영 방식의 문제임을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://zdnet.co.kr/view/?no=20260729085848"
 cover: "/images/covers/lg-everyone-ax-hackathon-workflow.jpg"
