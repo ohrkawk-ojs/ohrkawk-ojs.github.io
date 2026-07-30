@@ -4,7 +4,7 @@ date: 2026-07-29T22:32:00+09:00
 category: "AI Security"
 tags: ["AI Agent", "AX", "AI 보안", "거버넌스", "업무자동화", "엔터프라이즈 AI"]
 summary: "The Verge 보도와 2026년 7월 29일 수집 리포트 기준, NVIDIA와 Microsoft 등은 AI 보안 도구를 오픈소스로 만들고 공유하기 위한 Open Secure AI Alliance를 추진하고 있습니다. 이 소식은 기업 AI의 경쟁이 모델 성능만이 아니라, 에이전트가 업무 시스템을 호출할 때 필요한 공동 방어 인프라와 운영 안전장치로 옮겨가고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity"
 cover: "/images/covers/open-ai-security-fire-exit.jpg"
