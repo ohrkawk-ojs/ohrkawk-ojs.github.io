@@ -4,7 +4,7 @@ date: 2026-07-30T22:35:00+09:00
 category: "AX"
 tags: ["AX", "Microsoft Copilot", "업무자동화", "AI Agent", "Enterprise AI", "업무 인터페이스"]
 summary: "CNET 보도와 2026년 7월 30일 수집 리포트 기준, Microsoft는 업무용 Copilot 사용이 Teams·Outlook 수준으로 확대되고 있으며 에이전틱 AI에 강하게 베팅하고 있다고 전했습니다. 이 소식은 AI가 별도 실험 도구가 아니라 메일·회의·문서 옆에 늘 켜져 있는 업무 인터페이스로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.cnet.com/tech/services-and-software/microsoft-fiscal-year-2026-q4-earnings-agentic-ai-work/"
 cover: "/images/covers/copilot-daily-work-interface.jpg"
