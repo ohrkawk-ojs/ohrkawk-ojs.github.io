@@ -4,7 +4,7 @@ date: 2026-07-31T11:40:00+09:00
 category: "AX"
 tags: ["AX", "R&D", "데이터 플랫폼", "업무자동화", "AI Agent", "KT", "아모레퍼시픽"]
 summary: "2026년 7월 31일 수집 리포트와 Google News RSS 제목·스니펫 기준, 아모레퍼시픽과 KT는 화장품 R&D를 데이터 기반 혁신 플랫폼으로 전환하는 흐름 속에 연구 특화 AI 플랫폼과 AI 어시스턴트 사례로 주목받고 있습니다. 이 소식은 기업 AX의 출발점이 챗봇 화면이 아니라 오래 쌓인 실험 기록과 업무 지식을 AI가 읽을 수 있는 형태로 다시 정리하는 일임을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://news.google.com/rss/articles/CBMicEFVX3lxTE81NGZQWXV6eHZCY2pJTHF2WmFoZU42MVU1eGNjanJQZVh1Y1Z5cHFLVlRQVV9ubi1QSDJJN3lyLWxaSW5QQV9UbEhTZU5VSUVMQzJ1T2FsMVYyWjFFdHBRVC1SckVLQzQwbjNMWDhjbTY?oc=5"
   - "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pVENXZmluM0VPSTNJRTk5UHJvTU55WGNTZWk1V0JHbjVBYWR3VVB5Rk91YzhLeENfS3NiQ1o0WE95M1lPaEpZRG5LWlZRUi1Pa2R6UzZuUW11dmRvTmdxV2JqSQ?oc=5"
