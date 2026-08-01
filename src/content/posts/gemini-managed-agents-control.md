@@ -4,7 +4,7 @@ date: 2026-07-31T22:40:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "Google Gemini", "Managed Agents", "MCP", "업무자동화", "AX", "거버넌스"]
 summary: "GCN 보도와 2026년 7월 31일 수집 리포트 기준, Google은 Gemini API Managed Agents에 Gemini 3.6 Flash 기본값, environment hooks, token budget cap, scheduled execution trigger 등을 추가했습니다. 이 변화는 에이전트가 실험용 스크립트에서 비용·권한·시간표를 가진 운영 시스템으로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://gcn.com/google-upgrades-gemini-api-managed-agents/20244/"
 cover: "/images/covers/gemini-managed-agents-control.jpg"
