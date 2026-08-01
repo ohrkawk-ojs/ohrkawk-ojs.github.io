@@ -4,7 +4,7 @@ date: 2026-08-01T11:31:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AWS", "Amazon Bedrock AgentCore", "MCP", "BI", "업무자동화", "AX", "데이터 거버넌스"]
 summary: "AWS가 2026년 7월 29일 공개한 AgentCore Identity의 Private Key JWT 인증 글과 MCP 서버 기반 자율 BI 예시는, 기업 AI 에이전트의 핵심이 답변 생성에서 신원·권한·데이터 연결·정책 집행으로 이동하고 있음을 보여준다. 대기업 AX 관점에서는 보고서 자동화보다 먼저 데이터 사전, 접근권한, 감사 가능한 실행 경계를 설계해야 한다는 신호다."
-featured: true
+featured: false
 source_urls:
   - "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/"
   - "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/"
