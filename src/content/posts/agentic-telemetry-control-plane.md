@@ -4,7 +4,7 @@ date: 2026-08-01T22:38:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "DataBahn", "Telemetry", "Data Governance", "업무자동화", "AX", "엔터프라이즈 데이터"]
 summary: "SiliconANGLE 보도와 2026년 8월 1일 수집 리포트 기준 DataBahn의 4,000만 달러 조달과 agentic data control plane 구상은, 기업 AI 에이전트의 병목이 모델 답변보다 텔레메트리 데이터의 수집·정규화·라우팅·거버넌스로 이동하고 있음을 보여준다. 대기업 AX 관점에서는 에이전트에게 업무 로그를 읽히기 전에 데이터 비용, 권한, 맥락 품질, 감사 가능한 통제면을 먼저 설계해야 한다."
-featured: true
+featured: false
 source_urls:
   - "https://siliconangle.com/2026/07/30/databahn-raises-40m-ai-agents-queue-enterprise-telemetry/"
 cover: "/images/covers/agentic-telemetry-control-plane.jpg"
