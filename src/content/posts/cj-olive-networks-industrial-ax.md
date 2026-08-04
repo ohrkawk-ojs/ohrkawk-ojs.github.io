@@ -4,7 +4,7 @@ date: 2026-08-04T11:35:00+09:00
 category: "AX"
 tags: ["AX", "산업 AI", "제조 AX", "물류 자동화", "데이터 플랫폼", "스마트팩토리", "업무자동화"]
 summary: "Korea IT Times 보도와 2026년 8월 4일 수집 리포트 기준 CJ올리브네트웍스는 제조·물류·유통 영역에서 AI, 클라우드, 데이터 플랫폼 기반 AX 전략을 확대하고 있다. 이 소식은 기업 AI의 성패가 화려한 모델보다 MES, 품질, 물류, 현장 데이터가 이어지는 바닥 공사에 달려 있음을 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://www.koreaittimes.com/news/articleView.html?idxno=155743"
 cover: "/images/covers/cj-olive-networks-industrial-ax.jpg"
