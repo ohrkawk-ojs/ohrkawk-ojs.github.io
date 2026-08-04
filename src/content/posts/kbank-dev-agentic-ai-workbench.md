@@ -4,7 +4,7 @@ date: 2026-08-03T23:10:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AX", "케이뱅크", "개발 생산성", "업무자동화", "사내 지식", "금융 IT"]
 summary: "디지털투데이 보도와 2026년 8월 3일 수집 리포트 기준 케이뱅크는 코드 생성, 시스템 분석, 사내 지식 검색을 지원하는 에이전틱 AI를 도입했다. 이 변화는 AI 코딩 도구의 확산보다 더 깊은 질문, 즉 개발자가 코드와 문서와 내부 규정 사이를 오가던 이동 비용을 회사가 어떻게 재설계할 것인가를 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689127"
 cover: "/images/covers/kbank-dev-agentic-ai-workbench.jpg"
