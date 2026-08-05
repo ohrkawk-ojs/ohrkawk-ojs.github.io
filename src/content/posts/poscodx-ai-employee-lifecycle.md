@@ -4,7 +4,7 @@ date: 2026-08-02T22:31:00+09:00
 category: "AX"
 tags: ["AX", "AI 직원", "포스코DX", "Agentic AI", "업무자동화", "AI 에이전트", "거버넌스"]
 summary: "국제신문 보도와 2026년 8월 2일 수집 리포트 기준 포스코DX는 사무·경영 업무를 대상으로 ‘AI 직원’ 개념과 에이전트 생애주기 관리 플랫폼 ‘에이전티’를 제시했다. 이 변화는 AI를 도구로 쓰는 단계를 넘어 채용·평가·육성·퇴직처럼 업무 주체를 운영하는 방식 자체가 AX의 설계 대상이 되고 있음을 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://www.kookje.co.kr/news2011/asp/newsbody.asp?key=20260803.22012008623"
 cover: "/images/covers/poscodx-ai-employee-lifecycle.jpg"

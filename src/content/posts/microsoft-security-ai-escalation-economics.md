@@ -4,7 +4,7 @@ date: 2026-08-04T22:31:00+09:00
 category: "AI"
 tags: ["AI", "Agentic AI", "보안 AI", "엔터프라이즈 AI", "운영비용", "업무자동화", "거버넌스"]
 summary: "Forbes 보도와 2026년 8월 4일 수집 리포트 기준 Microsoft는 사내 사이버보안 AI가 보안 업무의 상당 부분을 처리하고, 프런티어 모델을 모든 업무의 기본값이 아니라 에스컬레이션 역할로 활용하는 접근을 소개했다. 이 소식은 기업 AI의 다음 경쟁이 가장 큰 모델을 붙이는 일이 아니라 업무 위험도와 비용에 맞춰 모델과 에이전트를 배치하는 운영 설계에 있음을 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://www.forbes.com/sites/jonmarkman/2026/08/04/microsofts-in-house-ai-beats-frontier-models-at-half-the-cost/"
 cover: "/images/covers/microsoft-security-ai-escalation-economics.jpg"

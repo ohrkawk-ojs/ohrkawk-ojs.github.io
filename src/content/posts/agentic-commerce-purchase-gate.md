@@ -4,7 +4,7 @@ date: 2026-08-02T11:35:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "에이전틱 커머스", "네이버", "카카오", "AX", "업무자동화", "구매경험"]
 summary: "시사저널e 보도와 2026년 8월 2일 수집 리포트 기준 네이버·카카오의 에이전틱 커머스 경쟁은 쇼핑 AI가 검색과 추천을 넘어 비교·장바구니·구매 실행으로 이동하는 신호다. 대기업 AX 관점에서는 고객 쇼핑보다 먼저 사내 구매, 비용 통제, 권한 위임, 승인선 자동화가 어떻게 재설계될지 묻는 변화로 읽을 수 있다."
-featured: true
+featured: false
 source_urls:
   - "https://www.sisajournal-e.com/news/articleView.html?idxno=422823"
 cover: "/images/covers/agentic-commerce-purchase-gate.jpg"
