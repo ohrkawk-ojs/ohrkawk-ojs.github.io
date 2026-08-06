@@ -4,7 +4,7 @@ date: 2026-08-05T11:31:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AX", "SKT", "산업 AI", "소버린 AI", "업무자동화", "엔터프라이즈 AI"]
 summary: "뉴데일리경제 보도와 2026년 8월 4일 수집 리포트 기준 SK텔레콤은 독자 AI 파운데이션 모델 A.X K2를 앞세워 AI 에이전트 시장 공략을 강화하고 제조·반도체·국방 등 산업 현장 적용을 확대한다고 밝혔다. 이 소식은 기업 AI 경쟁이 범용 모델의 성능표를 넘어 산업별 작업복을 입고 실제 업무 흐름 안으로 들어가는 단계로 이동하고 있음을 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://biz.newdaily.co.kr/site/data/html/2026/08/04/2026080400049.html"
 cover: "/images/covers/skt-ax-k2-industrial-agent.jpg"

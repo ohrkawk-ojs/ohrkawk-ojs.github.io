@@ -4,7 +4,7 @@ date: 2026-08-05T22:31:00+09:00
 category: "Enterprise AI"
 tags: ["Anthropic", "AI 인프라", "Agentic AI", "AX", "클라우드", "업무자동화", "운영비"]
 summary: "TechCrunch 보도와 2026년 8월 5일 수집 리포트 기준 Anthropic은 AI 클라우드 스타트업 Volta와 100억 달러 규모 계약을 맺은 것으로 보도됐다. 이 소식은 기업용 AI와 에이전트 경쟁의 무게중심이 모델 이름만이 아니라 전력, GPU, 추론비, 공급 안정성, 조달 전략으로 이동하고 있음을 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
 cover: "/images/covers/anthropic-volta-cloud-supply-chain.jpg"
