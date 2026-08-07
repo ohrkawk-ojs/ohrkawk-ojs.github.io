@@ -4,7 +4,7 @@ date: 2026-08-06T22:32:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AX", "Amazon Bedrock AgentCore", "엔터프라이즈 AI", "MCP", "거버넌스", "업무자동화"]
 summary: "Velopers의 AWS AgentCore 기반 엔터프라이즈 에이전트 플랫폼 글과 2026년 8월 6일 수집 리포트 기준, 기업 AI 에이전트의 경쟁축은 개별 데모 개발에서 Registry·Policy·Gateway·Observability 같은 운영 부품을 조립하는 구조로 이동하고 있다. 이 변화는 AX가 더 이상 챗봇 하나를 만드는 일이 아니라 권한, 도구, 평가, 로그를 갖춘 내부 업무 플랫폼을 세우는 일임을 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://www.velopers.kr/post/8294"
 cover: "/images/covers/agentcore-assembly-line-platform.jpg"
