@@ -4,7 +4,7 @@ date: 2026-08-07T11:40:00+09:00
 category: "AX"
 tags: ["AX", "Agentic AI", "공항 AI", "LG CNS", "한국공항공사", "현장 안전관리", "업무자동화", "거버넌스"]
 summary: "헬로티 보도와 2026년 8월 7일 수집 리포트 기준, LG CNS가 한국공항공사의 공항 AX 중장기 로드맵 사업권을 확보했다. 전국 14개 공항 운영에 AI를 적용하고, 특히 현장 직원의 음성 기록을 분석해 보고서 초안과 표준 대응 절차를 안내하는 에이전틱 AI PoC가 언급됐다. 이 변화는 AX가 사무실 문서 자동화를 넘어 현장 판단, 안전 보고, 초동 대응, 데이터 거버넌스가 이어지는 운영 체계로 확장되고 있음을 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://www.hellot.net/news/article.html?no=114180"
   - "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KNWkycDd4ZDJXMEVCY1A4U3FKTERhWDFCeDdPVnliR3lheUdOUWFJaEYtLVloUzRoUkczbVdrMzZzWWJveEdmRUszNkJDV3psUTZGenBXSmkxVmZhdVRn?oc=5"
