@@ -4,7 +4,7 @@ date: 2026-08-08T11:31:28+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AX", "AI 인프라", "업무자동화", "서버 설계", "오케스트레이션", "엔터프라이즈 AI"]
 summary: "2026년 8월 8일 수집 리포트와 Network World 보도 기준, Microsoft Azure와 University of Texas 연구진은 에이전틱 애플리케이션이 LLM 추론·도구 호출·오케스트레이션을 반복하며 기존 GPU 중심 기업 AI 서버 설계를 흔들 수 있다고 분석했다. 이 변화는 대기업 AX에서 모델 성능표보다 작업 단위 지연시간, CPU/GPU 경계, 외부 도구 호출, 관측성, 운영비를 함께 봐야 한다는 신호다."
-featured: true
+featured: false
 source_urls:
   - "https://www.networkworld.com/article/4206611/agentic-ai-could-force-a-rethink-of-enterprise-ai-server-design-researchers-say.html"
 cover: "/images/covers/agentic-server-workflow-bottleneck.jpg"
