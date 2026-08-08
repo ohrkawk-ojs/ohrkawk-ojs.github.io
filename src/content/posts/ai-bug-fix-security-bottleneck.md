@@ -4,7 +4,7 @@ date: 2026-08-06T11:33:00+09:00
 category: "Enterprise AI"
 tags: ["AI 보안", "AX", "Agentic AI", "업무자동화", "개발자동화", "거버넌스", "보안팀"]
 summary: "ZDNET 보도와 2026년 8월 5일 수집 리포트 기준 AI는 취약점을 더 빠르게 찾아내고 있지만, 기업 보안팀과 개발팀의 수정·검증 속도는 같은 속도로 늘지 않는다. 이 변화는 보안 AX의 핵심이 탐지 자동화가 아니라 우선순위, 검증, 승인, 롤백까지 포함한 업무 흐름 재설계에 있음을 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://www.zdnet.com/article/ai-is-finding-bugs-faster-than-humans-can-fix-them-how-enterprise-security-teams-must-adapt/"
 cover: "/images/covers/ai-bug-fix-security-bottleneck.jpg"

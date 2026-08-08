@@ -4,7 +4,7 @@ date: 2026-08-07T22:32:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AX", "야놀자", "Google Cloud", "데이터 업무", "업무자동화", "엔터프라이즈 AI"]
 summary: "2026년 8월 7일 수집 리포트와 벤처스퀘어 보도 제목 기준, 야놀자가 Google Cloud 기반 AI 에이전트 플랫폼을 구축해 기업 데이터 업무를 ‘분’ 단위로 단축했다는 소식이 전해졌다. 본문 세부 확인에는 한계가 있지만, 이 뉴스는 데이터 분석 자동화의 본질이 자연어 질의보다 권한 있는 데이터 접근, 반복 보고 동선, 증거가 남는 업무 실행으로 이동하고 있음을 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02SE1sWDF2VWxOR0FkWHd3TU8zeEVyOWZfMlI1N2duZ29kXzVmQVlPcHZPYUZKb01SMWc2RFlzem9zTzJ1UlhqWEw1Y2d2WWZEQW1j?oc=5"
 cover: "/images/covers/yanolja-data-agent-workflow.jpg"
