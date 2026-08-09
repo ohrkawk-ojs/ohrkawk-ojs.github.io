@@ -4,7 +4,7 @@ date: 2026-08-08T22:31:47+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AX", "업무자동화", "엔터프라이즈 AI", "운영 자동화", "워크플로", "SaaS"]
 summary: "HappyRobot이 1억5000만 달러 규모 Series C 투자를 유치하고 물류를 넘어 공급망·보험·에너지·통신·항공 등 운영 산업으로 확장한다는 보도는, AI 에이전트의 무대가 개인 생산성 도구에서 전화·메일·문서·분절된 시스템 사이의 인수인계 비용을 줄이는 운영 AX로 이동하고 있음을 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://www.intelligentcio.com/north-america/2026/08/04/happyrobot-raises-us150-million-series-c-to-expand-enterprise-ai-agent-platform/"
 cover: "/images/covers/happyrobot-operations-agent-coordination.jpg"
