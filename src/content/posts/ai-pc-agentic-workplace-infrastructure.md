@@ -4,7 +4,7 @@ date: 2026-08-10T11:35:00+09:00
 category: "Enterprise AI"
 tags: ["Enterprise AI", "AX", "Agentic AI", "AI PC", "CPU", "NPU", "업무자동화", "IT 인프라"]
 summary: "2026년 8월 10일 수집 리포트와 IT조선 RSS 제목 기준, AI 에이전트 시대의 CPU 경쟁은 단순한 칩 성능 경쟁이 아니라 업무 단말과 서버가 상시 실행형 AI를 감당할 수 있는지에 대한 질문으로 바뀌고 있다. 대기업 AX 관점에서는 모델 선택만큼이나 로컬 추론, 지연시간, 전력, 보안 실행 환경, 단말 교체 전략이 중요해진다."
-featured: true
+featured: false
 source_urls:
   - "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wdVJTTURwcjFMWEdSNXItM1NReGJvUTBQSXFjSlhsdm5HZTBsTnZCLTYwQ19hUGIzclQ5d3ZWcUpYenhiVlRiaWEtRU15a3hfMHloMzRfeGVpZEFMZ0tNTUtkRUpnbmVUNXVpRE40TkjSAXRBVV95cUxNYVJZSEZlNDJ3ZzlGNC1sY01DckRxcm44cHJKVmo2MTNTVkQ1TzM2Q3BJWlZPUFNLZ1FSWVVESXBZV1BpdE1nNDdYRmc5ODk0NkdRZWM1Q2RRNHFyQlBXOG5DYmZQQ29TZnBKaFBrWG5sVU5QRQ?oc=5"
   - "/opt/data/blog-workflow/sources/2026-08-10_1001_ai_ax_agentic_news_report.md"

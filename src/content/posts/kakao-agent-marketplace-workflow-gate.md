@@ -4,7 +4,7 @@ date: 2026-08-09T11:35:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AX", "업무자동화", "AI 에이전트", "플랫폼", "거버넌스", "카카오"]
 summary: "카카오가 과기정통부·NIA의 AI 에이전트 마켓플레이스 개발 지원 사업 수행 사업자로 선정됐다는 보도는, AI 에이전트 경쟁이 개별 기능 개발을 넘어 등록·검증·탐색·조합·실행·정산이라는 업무 실행 플랫폼의 질서로 이동하고 있음을 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://www.aitimes.kr/news/articleView.html?idxno=41346"
   - "https://www.aitimes.com/news/articleView.html?idxno=213612"
