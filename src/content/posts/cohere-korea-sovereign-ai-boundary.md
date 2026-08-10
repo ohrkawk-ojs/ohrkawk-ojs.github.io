@@ -4,7 +4,7 @@ date: 2026-08-09T22:35:00+09:00
 category: "Enterprise AI"
 tags: ["Enterprise AI", "AX", "Agentic AI", "소버린 AI", "데이터 거버넌스", "Cohere", "LG CNS"]
 summary: "경향신문 English 보도 기준 Cohere의 한국 법인 설립과 LG CNS 협력은 글로벌 LLM 경쟁이 모델 성능표를 넘어 데이터 위치, 온프레미스 운영, 현지 엔지니어링, 산업별 에이전트로 이동하고 있음을 보여준다."
-featured: true
+featured: false
 source_urls:
   - "https://www.khan.co.kr/en/article/202608051622007"
   - "/opt/data/blog-workflow/sources/2026-08-09_1000_ai_ax_agentic_news_report.md"
