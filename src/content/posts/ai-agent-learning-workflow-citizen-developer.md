@@ -4,7 +4,7 @@ date: 2026-08-10T22:30:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "AX", "업무자동화", "시민개발", "AI교육"]
 summary: "Google과 Kaggle의 AI Agents Intensive 과정에 35만 명 이상이 모였다는 소식은 단순한 개발자 교육 흥행이 아닙니다. 에이전트가 현업의 업무 자동화 도구가 되려면, 조직의 교육도 프롬프트 강의에서 설계·보안·배포·운영 훈련으로 이동해야 한다는 신호입니다."
-featured: true
+featured: false
 source_urls:
   - "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
 cover: "/images/covers/ai-agent-learning-workflow-citizen-developer.jpg"
