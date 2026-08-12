@@ -4,7 +4,7 @@ date: 2026-08-11T22:40:00+09:00
 category: "AX"
 tags: ["AX", "물류자동화", "WMS", "제조DX", "업무자동화"]
 summary: "CJ올리브네트웍스가 HD현대일렉트릭 청주 물류캠퍼스에 차세대 WMS를 구축했다는 소식은 단순한 물류 시스템 교체가 아닙니다. ERP·MES·WCS·로봇·협력사 시스템이 하나의 데이터 흐름으로 묶일 때, 제조 AX의 출발점은 AI 모델보다 창고와 생산라인 사이의 업무 언어를 맞추는 일이라는 점을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.koreaittimes.com/news/articleView.html?idxno=155981"
   - "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PTk9ubVYwQllnM2FZS0hYRG9HTWVZck0yR3pBNXgxVEN1QkMxM08wS2hha0JfWXZWQ3g1a3JGbS0zb21TZmp0dXZGVFZmR0hybjNwZGZ5QWt3cjBlQjRHNDViYXBmU254RzdZZ2xpeE4?oc=5"
