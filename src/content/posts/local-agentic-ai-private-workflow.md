@@ -4,7 +4,7 @@ date: 2026-08-12T11:35:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "로컬AI", "NVIDIA", "업무자동화", "프라이빗AI"]
 summary: "NVIDIA 기술 블로그가 Meta의 Muse Glimmer를 로컬 에이전틱 AI 워크플로우로 실행하는 방식을 소개했습니다. 이 소식은 모델 성능 경쟁보다 더 실무적인 질문을 던집니다. 오래 실행되는 AI 에이전트를 어디서 돌릴 것인가, 민감한 업무 데이터는 어디까지 밖으로 보낼 것인가, 그리고 기업 AX의 엔진룸은 클라우드와 사내 단말 사이에서 어떻게 재배치될 것인가입니다."
-featured: true
+featured: false
 source_urls:
   - "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia/"
 cover: "/images/covers/local-agentic-ai-private-workflow.jpg"
