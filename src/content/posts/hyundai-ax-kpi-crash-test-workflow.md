@@ -4,7 +4,7 @@ date: 2026-08-12T22:35:00+09:00
 category: "AX"
 tags: ["AX", "제조AI", "업무자동화", "현대차그룹", "KPI"]
 summary: "현대차그룹의 AI 전환 보도에서 가장 눈에 띄는 숫자는 충돌시험 분석시간 90% 단축입니다. 이 숫자는 단순한 성과 홍보가 아니라, 대기업 AX가 ‘AI를 도입했다’는 선언에서 벗어나 업무 리드타임·검토 비용·판단 속도로 증명되는 단계로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IRnZtNVBTdk9wY18wYjNORGNVaHNFY0tBRjBPTnAzblNTNGNpZkxIbXNlbmVZQkJpdWVFVGZPcEVfNnFfMmt3YnFMNFUwTndickZQQ0J4dUNjSFFqNFYxbtIBYEFVX3lxTE5IRnZtNVBTdk9wY18wYjNORGNVaHNFY0tBRjBPTnAzblNTNGNpZkxIbXNlbmVZQkJpdWVFVGZPcEVfNnFfMmt3YnFMNFUwTndickZQQ0J4dUNjSFFqNFYxbg?oc=5"
   - "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xMGhVT25uazdjTXdQcFVJaWZRQ3ZyTy1yQkVUQlZfbDNXUkNzeE8yVWFZV2NvSTBQZG55Q2w0enA4V0w4S0VqM0hXMWJyRy1SZHNWaGYwbUNLanI3U0FuUl9jbzFWTDVfcnNfNVRHTWVHN0ZUSHfSAWZBVV95cUxNaXc5YzZLc3p5R0pQQkdBWERvbGFZZ1Z6MUlIWmdVMElhaFMtUmVXYWpoSVhKeTl5LUpQei00WEowdjBocy1mU0k4c1ctbXBwRzBFODJSMGpLM2NHdXZveUhkOGFhY1E?oc=5"
