@@ -4,7 +4,7 @@ date: 2026-08-13T11:30:00+09:00
 category: "AX"
 tags: ["AX", "공공AI", "AI에이전트", "네이버웍스", "업무자동화"]
 summary: "네이버클라우드가 공개한 네이버웍스 신기능 3종은 공공기관 AI 도입의 초점이 챗봇 답변에서 행정망 검색, 문서 지식화, 부처별 에이전트 구축으로 이동하고 있음을 보여줍니다. 대기업 사무실에서도 이 변화는 협업툴이 단순 메신저가 아니라 권한 있는 업무 입구가 되는 장면으로 읽힙니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.yna.co.kr/amp/view/AKR20260812047200017"
   - "https://www.etnews.com/20260812000221"
