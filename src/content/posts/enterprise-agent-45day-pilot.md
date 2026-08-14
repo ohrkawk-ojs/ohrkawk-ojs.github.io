@@ -4,7 +4,7 @@ date: 2026-08-14T11:31:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AX", "기업AI", "SI", "PoC"]
 summary: "2026년 8월 14일 수집 리포트와 Google News RSS 제목 기준, 메가존클라우드가 AWS 생성형 AI 혁신센터 관련 Amazon Quick SI 파트너로 선정됐고 기업 AI 에이전트를 45일 안에 출시·검증한다는 취지의 보도가 확인됐습니다. 원문 본문 확인은 제한적이지만, 이 소식은 대기업 AX가 ‘좋은 아이디어’보다 짧은 기간 안에 업무·권한·검증을 묶어 운영 후보를 판별하는 방식으로 이동하고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0WnhRTWFxcGVqVWhDQjVTVlFRLWN3bW1HcHFIZG9HdGFmaC1aZlhFWlJSbXlVZXFyMS11U1I5dFcxd0diLVp0Y2o4UlZPQm9wblVN?oc=5"
 cover: "/images/covers/enterprise-agent-45day-pilot.jpg"
