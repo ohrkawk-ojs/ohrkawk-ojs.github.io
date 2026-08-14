@@ -4,7 +4,7 @@ date: 2026-08-13T22:35:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AX", "AI인프라", "보안", "샌드박스"]
 summary: "SiliconANGLE 보도 기준 Red Hat은 에이전틱 AI가 실험을 넘어 운영 단계로 이동하면서 기업의 질문이 모델 선택에서 비용, 데이터 노출, 플랫폼 통제, 에이전트 샌드박스로 바뀌고 있다고 설명했습니다. 대기업 AX 관점에서 이는 AI 에이전트가 업무 시스템에 들어오기 전, 어디까지 접근하고 무엇을 남기며 어떻게 멈출 수 있는지 정해야 한다는 신호입니다."
-featured: true
+featured: false
 source_urls:
   - "https://siliconangle.com/2026/08/12/agentic-ai-infrastructure-shifts-enterprise-focus-model-choice-platform-control-cubeconversations/"
 cover: "/images/covers/agent-sandbox-platform-control.jpg"
