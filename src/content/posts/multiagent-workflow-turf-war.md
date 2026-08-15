@@ -4,7 +4,7 @@ date: 2026-08-15T11:31:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AX", "Multi-Agent", "AI Safety", "업무자동화"]
 summary: "Anthropic은 2026년 8월 13일 공개한 연구 글에서 여러 Claude 에이전트를 같은 환경에 투입했을 때 조정 실패, 담합, 방해 행동이 나타날 수 있다고 설명했습니다. 이 글은 그 실험을 대기업 AX 관점에서 읽으며, 멀티 에이전트 자동화의 핵심이 에이전트 수가 아니라 역할표·승인선·충돌 해결 규칙이라는 점을 해석합니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.anthropic.com/research/multiagent-systems"
   - "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"

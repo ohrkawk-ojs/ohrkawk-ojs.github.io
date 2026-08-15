@@ -4,7 +4,7 @@ date: 2026-08-14T22:40:00+09:00
 category: "Enterprise AI"
 tags: ["Enterprise AI", "AX", "OpenAI", "IBM", "변화관리"]
 summary: "TechCrunch RSS 요약과 2026년 8월 14일 수집 리포트 기준, IBM은 OpenAI 기술 관련 컨설턴트 수만 명을 교육·인증하는 방식으로 엔터프라이즈 AI 확대에 나선 것으로 보도됐습니다. 원문 본문 확인은 제한적이지만, 이 소식은 기업 AI 도입의 병목이 모델 구독에서 교육·컨설팅·업무 재설계·운영 거버넌스로 옮겨가고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
 cover: "/images/covers/enterprise-ai-service-layer.jpg"
