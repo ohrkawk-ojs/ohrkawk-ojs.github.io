@@ -4,7 +4,7 @@ date: 2026-08-16T22:32:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "MCP", "AX", "업무자동화", "거버넌스"]
 summary: "아이티데일리 보도와 2026년 8월 16일 수집 리포트 기준, MCP 데브 서밋 서울 2026에서는 엔터프라이즈 환경에서 AI 에이전트를 안전하게 연결하고 프로덕션으로 확장하는 전략이 논의됐습니다. 이 글은 MCP를 단순 개발자 표준이 아니라, 사내 시스템·권한·워크플로우·감사 로그를 묶는 업무 자동화의 연결 질서로 해석합니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.itdaily.kr/news/articleView.html?idxno=241017"
 cover: "/images/covers/mcp-workflow-control-plane.jpg"
