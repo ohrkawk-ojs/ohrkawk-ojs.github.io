@@ -4,7 +4,7 @@ date: 2026-08-15T22:31:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "NVIDIA", "AX", "모델 라우팅", "업무자동화"]
 summary: "SiliconANGLE 보도와 2026년 8월 15일 수집 리포트 기준, NVIDIA는 Nemotron 3.5 Lightning과 에이전틱 AI 모델 라우터 NeMo Switchyard를 발표했습니다. 이 글은 이를 하나의 최고 모델 경쟁이 아니라, 장기 실행 에이전트 시대에 업무 난이도·비용·지연시간·품질을 배분하는 운영 교환대의 등장으로 해석합니다."
-featured: true
+featured: false
 source_urls:
   - "https://siliconangle.com/2026/08/11/nvidia-releases-nemotron-3-5-lightning-nemo-switchyard-give-enterprise-ai-capability-options/"
 cover: "/images/covers/model-routing-workflow-switchboard.jpg"

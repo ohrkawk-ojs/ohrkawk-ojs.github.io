@@ -4,7 +4,7 @@ date: 2026-08-18T11:32:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "Agentic AI", "업무자동화", "AX", "엔터프라이즈 AI"]
 summary: "2026년 8월 17일 수집 리포트와 Google News RSS 제목 기준, 젠스파크와 SBVA가 AI 에이전트의 미래를 논의하며 장기 수행형 에이전트의 부상을 언급했다는 보도가 나왔습니다. 이 글은 이 소식을 단순한 에이전트 유행담이 아니라, 대기업 업무에서 대기열·상태 추적·권한·검토 책임을 다시 설계해야 하는 신호로 읽습니다."
-featured: true
+featured: false
 source_urls:
   - "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54V1FWNUh2cHRwRENVcEl5ajFLTkZEckl4RHJubTJXMXpZZC1ONkxsdFZhRVFYY24ydlhSRkpaVnZ6cGpERjF6TEVPZTJSQQ?oc=5"
   - "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54V1FWNUh2cHRwRENVcEl5ajFLTkZEckl4RHJubTJXMXpZZC1ONkxsdFZhRVFYY24ydlhSRkpaVnZ6cGpERjF6TEVPZTJSQQ?oc=5&hl=ko&gl=KR&ceid=KR:ko"

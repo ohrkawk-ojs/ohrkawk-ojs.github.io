@@ -4,7 +4,7 @@ date: 2026-08-16T11:31:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "AICC", "AX", "업무자동화", "운영비"]
 summary: "파이낸셜뉴스/연합뉴스 보도와 2026년 8월 15일 수집 리포트 기준, 노타와 메타엠은 차세대 AI 상담체계 구축 공동 개발 계약을 체결했습니다. 이 글은 이를 상담봇 도입 뉴스가 아니라, 여러 AI 에이전트를 역할별로 운영하고 GPU·메모리 비용과 품질·핸드오프를 함께 관리해야 하는 AICC 운영 설계의 신호로 해석합니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.fnnews.com/news/202608131110462823"
 cover: "/images/covers/aicc-agent-cost-control.jpg"

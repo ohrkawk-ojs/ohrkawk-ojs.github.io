@@ -4,7 +4,7 @@ date: 2026-08-17T11:31:00+09:00
 category: "Agentic AI"
 tags: ["Agentic AI", "엔터프라이즈 AI", "AX", "업무자동화", "AI 플랫폼"]
 summary: "헬로티 보도와 2026년 8월 16일 수집 리포트 기준, 코난테크놀로지는 40여 종의 AI 에이전트와 통합 운영체계 ‘Agent OS’를 결합한 엔터프라이즈 AI 플랫폼 ‘Agent-X’를 공개했습니다. 이 글은 이 소식을 단순 제품 출시가 아니라, 사내 업무 자동화가 개별 챗봇에서 권한·배포·운영을 묶는 플랫폼 스위치보드로 이동하는 신호로 읽습니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.hellot.net/news/article.html?no=114298"
   - "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qNzh0b1VzNjRzS014NHNNVWhDc0ZieVh0azNyS1FfMDdHME01MVFPaTNuYmwyYnhFd25XVU1GUGJrakRrMU5uZFVTTlloSGNaa1RJckpoY3VabDJMMVBlZi0yQUdLMzhkejJiTU42d3hpSm5n?oc=5"
