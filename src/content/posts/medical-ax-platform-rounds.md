@@ -4,7 +4,7 @@ date: 2026-08-17T22:33:00+09:00
 category: "AX"
 tags: ["AX", "의료 AI", "엔터프라이즈 AI", "업무자동화", "데이터 거버넌스"]
 summary: "2026년 8월 17일 수집 리포트와 Google News RSS 제목 기준, KT와 서울대병원이 진료·연구·운영 영역을 포괄하는 의료 AX 플랫폼 구축을 추진한다는 보도가 나왔습니다. 이 글은 이 소식을 병원만의 AI 도입 사례가 아니라, 고신뢰 조직에서 AX가 단일 챗봇을 넘어 권한·데이터·현장 절차·운영 지표를 묶는 플랫폼 문제로 이동하는 신호로 읽습니다."
-featured: true
+featured: false
 source_urls:
   - "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEYVQ3eGh0dE1EaUlWY05fTDl4VjQta1FZSGVSanJ0SkVaeVY3b2NEVERWeXU0MmFjSll0RlVDRmJHWkNxZ0hfbDNENmNpWlJLX3ByYllNeGFkNXVkUDU2ZGVicEt3dzk4?oc=5"
   - "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEYVQ3eGh0dE1EaUlWY05fTDl4VjQta1FZSGVSanJ0SkVaeVY3b2NEVERWeXU0MmFjSll0RlVDRmJHWkNxZ0hfbDNENmNpWlJLX3ByYllNeGFkNXVkUDU2ZGVicEt3dzk4?oc=5&hl=ko&gl=KR&ceid=KR:ko"
