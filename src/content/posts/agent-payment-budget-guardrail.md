@@ -4,7 +4,7 @@ date: 2026-08-18T22:35:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "Agentic AI", "AX", "결제 권한", "업무자동화", "거버넌스"]
 summary: "AWS와 OpenClaw Foundation은 Amazon Bedrock AgentCore payments를 통해 AI 에이전트가 사전에 승인된 한도 안에서 HTTP 402 결제 요청을 처리하는 구현 방식을 소개했습니다. 이 글은 이 소식을 ‘에이전트가 돈을 쓴다’는 자극적인 장면이 아니라, 대기업 AX에서 권한·예산·감사 로그를 업무 단위로 다시 설계해야 하는 신호로 읽습니다."
-featured: true
+featured: false
 source_urls:
   - "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/"
   - "https://www.x402.org/"
