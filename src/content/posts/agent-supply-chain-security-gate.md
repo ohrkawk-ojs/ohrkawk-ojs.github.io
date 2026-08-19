@@ -4,7 +4,7 @@ date: 2026-08-19T11:35:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "Agentic AI", "AX", "보안", "공급망", "업무자동화"]
 summary: "ZDNet Korea 보도와 2026년 8월 19일 수집 리포트 기준, 카스퍼스키는 AI 에이전트와 에이전트 스킬을 겨냥한 악성코드·백도어 탐지 기능을 발표했고 올해 에이전틱 AI 소프트웨어로 위장한 악성코드 샘플을 1만5000개 이상 확인했다고 밝혔습니다. 이 소식은 기업 AX의 보안 질문이 모델 답변의 정확도에서 에이전트가 가져오는 외부 도구와 스킬의 공급망 신뢰로 옮겨가고 있음을 보여줍니다."
-featured: true
+featured: false
 source_urls:
   - "https://zdnet.co.kr/view/?no=20260818161511"
 cover: "/images/covers/agent-supply-chain-security-gate.jpg"
