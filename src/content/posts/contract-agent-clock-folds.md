@@ -4,7 +4,7 @@ date: 2026-08-20T11:31:00+09:00
 category: "AX"
 tags: ["AI Agent", "Agentic AI", "AX", "금융AI", "계약자동화", "업무자동화"]
 summary: "연합뉴스 보도와 2026년 8월 20일 수집 리포트 기준, 구글 클라우드와 신한투자증권은 금융 업무 특화 차세대 AI 에이전트 플랫폼을 구축했고 계약 처리 시간이 2시간에서 5분으로 단축된 사례가 소개됐습니다. 이 글은 그 숫자를 단순 속도 경쟁이 아니라, 대기업 AX가 문서·권한·검토·승인 흐름을 어떻게 다시 설계해야 하는지 보여주는 신호로 읽습니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.yna.co.kr/view/AKR20260818061300017"
 cover: "/images/covers/contract-agent-clock-folds.jpg"
