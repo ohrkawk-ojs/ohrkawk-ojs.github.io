@@ -4,7 +4,7 @@ date: 2026-08-19T22:45:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "Agentic AI", "AX", "FinOps", "업무자동화", "비용관리"]
 summary: "Gartner는 2026년 8월 17일 보도자료에서 에이전틱 워크플로우당 AI 추론 비용이 2028년까지 5배 이상 늘어날 수 있다고 전망했습니다. 이 글은 그 숫자를 단순한 비용 경고가 아니라, 대기업 AX가 이제 프롬프트 단가가 아닌 업무 흐름 단위의 호출·재시도·품질·승인 비용을 설계해야 한다는 신호로 읽습니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.gartner.com/en/newsroom/press-releases/2026-08-17-gartner-predicts-ai-inference-costs-per-agentic-workflow-will-increase-more-than-fivefold-through-2028"
 cover: "/images/covers/agentic-workflow-cost-receipt.jpg"
