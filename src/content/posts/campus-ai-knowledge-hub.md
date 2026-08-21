@@ -4,7 +4,7 @@ date: 2026-08-20T22:31:00+09:00
 category: "AX"
 tags: ["AX", "AI Agent", "Agentic AI", "사내AI", "지식관리", "업무자동화"]
 summary: "전자신문 보도와 2026년 8월 20일 수집 리포트 기준, DGIST는 외부 용역 없이 내부 기술로 학생용 AI 챗봇, 행정업무용 AI 챗봇, 지식관리시스템 청크랩, AI-HUB를 구축하고 하반기 로컬 LLM과 행정 AI 에이전트 시범 적용을 추진합니다. 이 글은 대학 사례를 대기업 AX의 사내 지식·권한·운영 경험 내재화 문제로 읽습니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.etnews.com/20260819000011"
   - "/opt/data/blog-workflow/sources/2026-08-20_1000_ai_ax_agentic_news_report.md"
