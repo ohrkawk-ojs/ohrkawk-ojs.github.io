@@ -4,7 +4,7 @@ date: 2026-08-22T11:30:59+09:00
 category: "AX"
 tags: ["AX", "Agentic AI", "AI데이터센터", "코딩에이전트", "엔터프라이즈AI", "업무자동화"]
 summary: "DIGITIMES 보도와 2026년 8월 22일 수집 리포트 기준, 엘리스그룹은 40°C 이상 온수 냉각을 활용하는 국내 첫 AI 데이터센터 구축 계획과 기업 AX 솔루션·코딩 에이전트 확장을 함께 제시했습니다. 이 글은 이를 데이터센터 뉴스가 아니라, AI 에이전트가 사무실의 실제 업무 도구가 되기 위해 필요한 물리적·보안적 작업대가 드러난 사건으로 읽습니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.digitimes.com/news/a20260820PD227/ai-data-center-cooling-gpu-infrastructure.html"
   - "/opt/data/blog-workflow/sources/2026-08-22_1000_ai_ax_agentic_news_report.md"

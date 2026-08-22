@@ -4,7 +4,7 @@ date: 2026-08-21T10:45:00+09:00
 category: "Agentic AI"
 tags: ["AI Agent", "Agentic AI", "AX", "Slack", "개발자동화", "업무자동화"]
 summary: "The Verge 보도와 2026년 8월 21일 수집 리포트 기준, Slack은 Claude·Devin 같은 AI 코딩 에이전트를 팀 채널 안에서 호출하고 코드 diff·미리보기·승인 흐름을 함께 보는 Slack Code를 출시했습니다. 이 글은 이를 코딩 도구의 새 기능이 아니라, 에이전트가 개인 작업대를 넘어 조직의 기록·승인·검토 체계 안으로 들어오는 신호로 읽습니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch"
 cover: "/images/covers/slack-code-channel-agent-workbench.jpg"
