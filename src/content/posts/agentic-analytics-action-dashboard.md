@@ -4,7 +4,7 @@ date: 2026-08-21T22:35:00+09:00
 category: "AX"
 tags: ["AX", "Agentic AI", "BI", "Tableau", "데이터분석", "업무자동화"]
 summary: "아이티데일리 보도와 2026년 8월 21일 수집 리포트 기준, Salesforce Tableau는 데이터를 보는 셀프서비스 분석을 넘어 AI 에이전트가 맥락을 이해하고 업무 실행까지 돕는 ‘에이전틱 분석’ 전환을 제시했습니다. 이 글은 이를 BI 제품의 기능 변화가 아니라, 대시보드가 보고서의 끝에서 업무 실행의 입구로 이동하는 신호로 읽습니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.itdaily.kr/news/articleView.html?idxno=241113"
   - "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HdXZFTk5aeVI1cEdXQVBHU19fOE9ZeVpEczBDdHVVNnJVbi00eWV0UjdfUk1SWTNPSjRTbVhBbzFhV0FNbHFqQ2FWUjdPeWZVVEx5THBRa2dUMFpvSlRGT3BHSnE3eGM?oc=5"
