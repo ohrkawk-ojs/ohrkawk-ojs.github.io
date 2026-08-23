@@ -4,7 +4,7 @@ date: 2026-08-22T22:31:55+09:00
 category: "AX"
 tags: ["AX", "제조AX", "AI에이전트", "업무자동화", "현장인터뷰", "PoC"]
 summary: "전자신문 보도와 2026년 8월 22일 수집 리포트 기준, KT는 대구경북 제조기업 현장을 직접 찾아가 제조 AX 세미나를 열고 번역·보고서·회의록 자동화, 법무 지원 챗봇, 사내 지식검색·품질 예측·온톨로지 기반 업무자동화 과제를 발굴했습니다. 이 글은 세미나 뉴스보다, AX가 발표장이 아니라 현장 인터뷰와 업무 지도에서 시작된다는 신호로 읽습니다."
-featured: true
+featured: false
 source_urls:
   - "https://www.etnews.com/20260812000167"
   - "/opt/data/blog-workflow/sources/2026-08-22_1000_ai_ax_agentic_news_report.md"
