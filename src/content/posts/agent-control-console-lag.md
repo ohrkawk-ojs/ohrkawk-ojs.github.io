@@ -4,7 +4,7 @@ date: 2026-08-23T11:32:08+09:00
 category: "Agentic AI"
 tags: ["AI에이전트", "AgenticAI", "AX", "거버넌스", "FinOps", "업무자동화"]
 summary: "2026년 8월 22일 수집 리포트와 Google News RSS 제목 기준, TechCrunch는 기업 내 AI 에이전트 사용이 두 배로 늘었지만 통제보다 신뢰가 더 빨리 커졌다고 전했고, VentureBeat는 일부 기업이 비용 폭주형 에이전트를 실시간으로 멈추지 못한다는 문제를 다뤘습니다. 이 글은 에이전트 도입의 병목이 기능이 아니라 계기판, 브레이크, 예산 경계로 이동한다는 신호로 읽습니다."
-featured: true
+featured: false
 source_urls:
   - "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFdlZ2J6R0MydjAzYVJFTkZ2cjZ1WnpzVGNQWFpBUXNTZWpjYW5XZGE5UkdDaHlaMW9BUmx5dENNZXdjSUJFbGZoWlJXd0kxeGYxZFNyNUo0MmwxM1hvbDNTZ2J1YkZ2bDFvUHhmY3BRRE1Td1p5MnZKMGZ1ZTd1dmF2Q1VCaEJPbmVhUk5qMGNFblJyMXJONXktMHIzcUM3SkRmbFBWUHR4cWNfWU9wa2FwcjZKQy00NVlVRjVKZ1JiYWM?oc=5"
   - "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3A2cDZrSmVXYmtLVTNLUTJGY3Y4YW9EU0ZtTUlOOGNqeXdNZzRGbXdDejU5SWlOMFhVZkpieWJGaTdWaTRRc0FKSHpDdHgwTkZ4bzBGcC1jcnR1ZFltVTdITnhOdnVhTm1neGJwd1hfOTZaSGQyTlZwTkYzdm5raEtBWVkxWEtaTmt0YzlUcUFuWS04U2t2UF9DTnlVUUpoZHphZ1N3WVFFY3JaSlNFWHFfWQ?oc=5"
